@@ -1814,7 +1814,8 @@
       "title": "Twin Track Action",
       "category": "buttons",
       "brief": "Create an original Twin Track Action pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "radial-count-control",
@@ -1890,7 +1891,8 @@
       "title": "Folded Resource Card",
       "category": "cards",
       "brief": "Create an original Folded Resource Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "focus-rail-profile",
@@ -1966,7 +1968,8 @@
       "title": "Context Aware Number Field",
       "category": "inputs",
       "brief": "Create an original Context Aware Number Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "segmented-address-input",
@@ -2042,7 +2045,8 @@
       "title": "Offset Page Index",
       "category": "navigation",
       "brief": "Create an original Offset Page Index pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "focus-trail-breadcrumbs",
@@ -2118,7 +2122,8 @@
       "title": "Elastic Index Loader",
       "category": "loaders",
       "brief": "Create an original Elastic Index Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "ribbon-node-counter",
@@ -2194,7 +2199,8 @@
       "title": "Layered Number Sentence",
       "category": "text-effects",
       "brief": "Create an original Layered Number Sentence pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "margin-rail-quote",
@@ -2270,7 +2276,8 @@
       "title": "Editorial Tick Atlas",
       "category": "backgrounds",
       "brief": "Create an original Editorial Tick Atlas pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "connected-module-grid",
@@ -2346,7 +2353,8 @@
       "title": "Folded Depth Change",
       "category": "transitions",
       "brief": "Create an original Folded Depth Change pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "index-rail-crossfade",
@@ -2422,7 +2430,8 @@
       "title": "Reading Axis Sequence",
       "category": "scroll-effects",
       "brief": "Create an original Reading Axis Sequence pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "scroll-framed-blueprint",
@@ -2498,7 +2507,8 @@
       "title": "Expandable Audit Notice",
       "category": "misc",
       "brief": "Create an original Expandable Audit Notice pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "keyboard-focus-coach",
