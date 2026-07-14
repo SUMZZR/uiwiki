@@ -1774,7 +1774,8 @@
       "title": "Layered Confirm Action",
       "category": "buttons",
       "brief": "Create an original Layered Confirm Action pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "elastic-corner-control",
@@ -1845,7 +1846,8 @@
       "title": "Expandable Signal Brief",
       "category": "cards",
       "brief": "Create an original Expandable Signal Brief pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-milestone-card",
@@ -1916,7 +1918,8 @@
       "title": "Layered Date Composer",
       "category": "inputs",
       "brief": "Create an original Layered Date Composer pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "accessible-range-matrix",
@@ -1987,7 +1990,8 @@
       "title": "Layered Route Compass",
       "category": "navigation",
       "brief": "Create an original Layered Route Compass pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "expandable-chapter-strip",
@@ -2058,7 +2062,8 @@
       "title": "Folding Dot Counter",
       "category": "loaders",
       "brief": "Create an original Folding Dot Counter pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-wave-progress",
@@ -2129,7 +2134,8 @@
       "title": "Measured Word Cascade",
       "category": "text-effects",
       "brief": "Create an original Measured Word Cascade pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "split-baseline-statement",
@@ -2200,7 +2206,8 @@
       "title": "Modular Paper Matrix",
       "category": "backgrounds",
       "brief": "Create an original Modular Paper Matrix pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "sparse-route-blueprint",
@@ -2271,7 +2278,8 @@
       "title": "Layered Panel Handoff",
       "category": "transitions",
       "brief": "Create an original Layered Panel Handoff pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "offset-sheet-reveal",
@@ -2342,7 +2350,8 @@
       "title": "Measured Chapter Canvas",
       "category": "scroll-effects",
       "brief": "Create an original Measured Chapter Canvas pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "scroll-linked-card-dossier",
@@ -2413,7 +2422,8 @@
       "title": "Compact Activity Ledger",
       "category": "misc",
       "brief": "Create an original Compact Activity Ledger pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "accessible-status-inspector",
