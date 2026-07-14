@@ -2574,7 +2574,8 @@
       "title": "Pivot Label Action",
       "category": "buttons",
       "brief": "Create an original Pivot Label Action pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-corner-cta",
@@ -2645,7 +2646,8 @@
       "title": "Pivot Insight Summary",
       "category": "cards",
       "brief": "Create an original Pivot Insight Summary pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-profile-dossier",
@@ -2716,7 +2718,8 @@
       "title": "Layered Time Composer",
       "category": "inputs",
       "brief": "Create an original Layered Time Composer pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "accessible-position-matrix",
@@ -2787,7 +2790,8 @@
       "title": "Measured Route Tabs",
       "category": "navigation",
       "brief": "Create an original Measured Route Tabs pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "expandable-workspace-index",
@@ -2858,7 +2862,8 @@
       "title": "Folding Signal Meter",
       "category": "loaders",
       "brief": "Create an original Folding Signal Meter pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "nested-step-scanner",
@@ -2929,7 +2934,8 @@
       "title": "Layered Weight Headline",
       "category": "text-effects",
       "brief": "Create an original Layered Weight Headline pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "split-index-sentence",
@@ -3000,7 +3006,8 @@
       "title": "Layered Paper Atlas",
       "category": "backgrounds",
       "brief": "Create an original Layered Paper Atlas pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "offset-route-matrix",
@@ -3071,7 +3078,8 @@
       "title": "Measured Panel Swap",
       "category": "transitions",
       "brief": "Create an original Measured Panel Swap pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "offset-canvas-expansion",
@@ -3142,7 +3150,8 @@
       "title": "Pinned Annotation Timeline",
       "category": "scroll-effects",
       "brief": "Create an original Pinned Annotation Timeline pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "scroll-linked-signal-deck",
@@ -3213,7 +3222,8 @@
       "title": "Compact Selection Ledger",
       "category": "misc",
       "brief": "Create an original Compact Selection Ledger pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "accessible-export-inspector",
