@@ -1798,7 +1798,8 @@
       "title": "Folded Icon Trigger",
       "category": "buttons",
       "brief": "Create an original Folded Icon Trigger pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-hold-button",
@@ -1872,7 +1873,8 @@
       "title": "Sliding Annotation Card",
       "category": "cards",
       "brief": "Create an original Sliding Annotation Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "modular-audit-summary",
@@ -1946,7 +1948,8 @@
       "title": "Measured Search Field",
       "category": "inputs",
       "brief": "Create an original Measured Search Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "token-relay-composer",
@@ -2020,7 +2023,8 @@
       "title": "Pinned Section Switcher",
       "category": "navigation",
       "brief": "Create an original Pinned Section Switcher pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "keyboard-map-navigator",
@@ -2094,7 +2098,8 @@
       "title": "Nested Tile Scanner",
       "category": "loaders",
       "brief": "Create an original Nested Tile Scanner pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "signal-ladder-progress",
@@ -2168,7 +2173,8 @@
       "title": "Bracketed Metric Reveal",
       "category": "text-effects",
       "brief": "Create an original Bracketed Metric Reveal pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "tracking-shift-headline",
@@ -2242,7 +2248,8 @@
       "title": "Quiet Signal Topography",
       "category": "backgrounds",
       "brief": "Create an original Quiet Signal Topography pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-index-field",
@@ -2316,7 +2323,8 @@
       "title": "Signal Wipe Transition",
       "category": "transitions",
       "brief": "Create an original Signal Wipe Transition pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "modular-canvas-swap",
@@ -2390,7 +2398,8 @@
       "title": "Native Snap Story Deck",
       "category": "scroll-effects",
       "brief": "Create an original Native Snap Story Deck pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "pinned-signal-timeline",
@@ -2464,7 +2473,8 @@
       "title": "Queued Export Capsule",
       "category": "misc",
       "brief": "Create an original Queued Export Capsule pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "selection-summary-badge",
