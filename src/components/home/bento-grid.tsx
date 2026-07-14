@@ -24,6 +24,8 @@ export type PreviewEntry = {
 
 type BentoGridProps = { entries: PreviewEntry[] };
 
+const PAGE_SIZE = 12;
+
 const gridVariants = {
   hidden: {},
   visible: { transition: { staggerChildren: 0.04 } },
@@ -102,9 +104,17 @@ function ComponentCard({ entry, index }: { entry: PreviewEntry; index: number })
 
 export function BentoGrid({ entries }: BentoGridProps) {
   const [activeCategory, setActiveCategory] = useState<Category | "all">("all");
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const filteredEntries = activeCategory === "all"
     ? entries
     : entries.filter((entry) => entry.category === activeCategory);
+  const visibleEntries = filteredEntries.slice(0, visibleCount);
+  const remainingCount = filteredEntries.length - visibleEntries.length;
+
+  const selectCategory = (category: Category | "all") => {
+    setActiveCategory(category);
+    setVisibleCount(PAGE_SIZE);
+  };
 
   return (
     <section className="mt-16" aria-labelledby="library-heading">
@@ -117,19 +127,36 @@ export function BentoGrid({ entries }: BentoGridProps) {
       </div>
 
       <div className="mt-7 flex gap-2 overflow-x-auto pb-3" aria-label="Filter by category">
-        <button type="button" onClick={() => setActiveCategory("all")} aria-pressed={activeCategory === "all"} className={`min-h-10 shrink-0 rounded-full px-4 text-xs font-bold transition-colors ${activeCategory === "all" ? "bg-foreground text-white" : "border border-line bg-white text-copy hover:bg-surface-muted"}`}>
+        <button type="button" onClick={() => selectCategory("all")} aria-pressed={activeCategory === "all"} className={`min-h-10 shrink-0 rounded-full px-4 text-xs font-bold transition-colors ${activeCategory === "all" ? "bg-foreground text-white" : "border border-line bg-white text-copy hover:bg-surface-muted"}`}>
           All · {entries.length}
         </button>
         {categories.map((category) => (
-          <button key={category} type="button" onClick={() => setActiveCategory(category)} aria-pressed={activeCategory === category} className={`min-h-10 shrink-0 rounded-full px-4 text-xs font-bold transition-colors ${activeCategory === category ? "bg-foreground text-white" : "border border-line bg-white text-copy hover:bg-surface-muted"}`}>
+          <button key={category} type="button" onClick={() => selectCategory(category)} aria-pressed={activeCategory === category} className={`min-h-10 shrink-0 rounded-full px-4 text-xs font-bold transition-colors ${activeCategory === category ? "bg-foreground text-white" : "border border-line bg-white text-copy hover:bg-surface-muted"}`}>
             {categoryLabels[category]}
           </button>
         ))}
       </div>
 
       <motion.div key={activeCategory} variants={gridVariants} initial="hidden" animate="visible" className="mt-2 grid grid-cols-1 gap-3 md:grid-cols-2 xl:grid-cols-3">
-        {filteredEntries.map((entry, index) => <ComponentCard key={entry.slug} entry={entry} index={index} />)}
+        {visibleEntries.map((entry, index) => <ComponentCard key={entry.slug} entry={entry} index={index} />)}
       </motion.div>
+
+      <div className="mt-8 flex flex-col items-center gap-3" aria-live="polite">
+        <p className="text-xs font-semibold text-muted">
+          Showing {visibleEntries.length} of {filteredEntries.length} patterns
+        </p>
+        {remainingCount > 0 ? (
+          <motion.button
+            type="button"
+            whileTap={{ scale: 0.96 }}
+            transition={{ type: "spring", stiffness: 400, damping: 24 }}
+            onClick={() => setVisibleCount((current) => current + PAGE_SIZE)}
+            className="inline-flex min-h-12 items-center rounded-full bg-foreground px-6 text-sm font-bold text-white shadow-[0_2px_16px_rgba(0,0,0,0.06)] transition-shadow hover:shadow-[0_8px_24px_rgba(0,0,0,0.12)]"
+          >
+            Load more · {Math.min(PAGE_SIZE, remainingCount)}
+          </motion.button>
+        ) : null}
+      </div>
     </section>
   );
 }
