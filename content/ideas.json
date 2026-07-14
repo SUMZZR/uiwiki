@@ -78,7 +78,8 @@
       "title": "Directional Wipe Button",
       "category": "buttons",
       "brief": "Create an original Directional Wipe Button pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "stacked-shadow-button",
@@ -171,7 +172,8 @@
       "title": "Sliding Comparison Card",
       "category": "cards",
       "brief": "Create an original Sliding Comparison Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "peek-under-article-card",
@@ -264,7 +266,8 @@
       "title": "Segmented Currency Input",
       "category": "inputs",
       "brief": "Create an original Segmented Currency Input pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "autosizing-message-composer",
@@ -357,7 +360,8 @@
       "title": "Keyboard Grid Navigator",
       "category": "navigation",
       "brief": "Create an original Keyboard Grid Navigator pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "stacked-page-switcher",
@@ -450,7 +454,8 @@
       "title": "Counting Dot Loader",
       "category": "loaders",
       "brief": "Create an original Counting Dot Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "packet-transfer-loader",
@@ -543,7 +548,8 @@
       "title": "Kern Expansion Title",
       "category": "text-effects",
       "brief": "Create an original Kern Expansion Title pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "footnote-popover-text",
@@ -636,7 +642,8 @@
       "title": "Modular Block Canvas",
       "category": "backgrounds",
       "brief": "Create an original Modular Block Canvas pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "punched-paper-field",
@@ -729,7 +736,8 @@
       "title": "Navigation Origin Reveal",
       "category": "transitions",
       "brief": "Create an original Navigation Origin Reveal pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "content-depth-crossfade",
@@ -822,7 +830,8 @@
       "title": "Scroll Snap Process Cards",
       "category": "scroll-effects",
       "brief": "Create an original Scroll Snap Process Cards pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "reading-rhythm-highlighter",
@@ -915,7 +924,8 @@
       "title": "Inline Success Stamp",
       "category": "misc",
       "brief": "Create an original Inline Success Stamp pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "activity-pulse-marker",
