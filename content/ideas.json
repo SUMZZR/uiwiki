@@ -998,7 +998,8 @@
       "title": "Sliding Counter Button",
       "category": "buttons",
       "brief": "Create an original Sliding Counter Button pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "focus-halo-button",
@@ -1072,7 +1073,8 @@
       "title": "Pinned Comparison Card",
       "category": "cards",
       "brief": "Create an original Pinned Comparison Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "metric-window-card",
@@ -1146,7 +1148,8 @@
       "title": "Context Hint Input",
       "category": "inputs",
       "brief": "Create an original Context Hint Input pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "segmented-time-field",
@@ -1220,7 +1223,8 @@
       "title": "Reading Chapter Dock",
       "category": "navigation",
       "brief": "Create an original Reading Chapter Dock pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "context-bubble-navigation",
@@ -1294,7 +1298,8 @@
       "title": "Elastic Type Loader",
       "category": "loaders",
       "brief": "Create an original Elastic Type Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "stacked-tile-progress",
@@ -1368,7 +1373,8 @@
       "title": "Editorial Index Reveal",
       "category": "text-effects",
       "brief": "Create an original Editorial Index Reveal pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "split-axis-headline",
@@ -1442,7 +1448,8 @@
       "title": "Sparse Label Matrix",
       "category": "backgrounds",
       "brief": "Create an original Sparse Label Matrix pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "paper-cutout-field",
@@ -1516,7 +1523,8 @@
       "title": "Shared Token Handoff",
       "category": "transitions",
       "brief": "Create an original Shared Token Handoff pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "split-canvas-reveal",
@@ -1590,7 +1598,8 @@
       "title": "Measured Story Progress",
       "category": "scroll-effects",
       "brief": "Create an original Measured Story Progress pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "pinned-comparison-chapters",
@@ -1664,7 +1673,8 @@
       "title": "Selection Count Toolbar",
       "category": "misc",
       "brief": "Create an original Selection Count Toolbar pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "accessible-reaction-dock",
