@@ -54,7 +54,8 @@
       "title": "Paper Fold Button",
       "category": "buttons",
       "brief": "Create an original Paper Fold Button pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "orbit-badge-button",
@@ -144,7 +145,8 @@
       "title": "Before After Product Card",
       "category": "cards",
       "brief": "Create an original Before After Product Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "focus-window-media-card",
@@ -234,7 +236,8 @@
       "title": "Expandable Filter Input",
       "category": "inputs",
       "brief": "Create an original Expandable Filter Input pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "tokenized-people-picker",
@@ -324,7 +327,8 @@
       "title": "Floating Section Compass",
       "category": "navigation",
       "brief": "Create an original Floating Section Compass pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "swipeable-mobile-tabs",
@@ -414,7 +418,8 @@
       "title": "Radial Segment Loader",
       "category": "loaders",
       "brief": "Create an original Radial Segment Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "tumbling-tile-loader",
@@ -504,7 +509,8 @@
       "title": "Vertical Word Slot",
       "category": "text-effects",
       "brief": "Create an original Vertical Word Slot pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "highlight-sweep-sentence",
@@ -594,7 +600,8 @@
       "title": "Constellation Link Field",
       "category": "backgrounds",
       "brief": "Create an original Constellation Link Field pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "halftone-focus-canvas",
@@ -684,7 +691,8 @@
       "title": "Vertical Slice Transition",
       "category": "transitions",
       "brief": "Create an original Vertical Slice Transition pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "paper-slide-route-change",
@@ -774,7 +782,8 @@
       "title": "Scrolling Label Conveyor",
       "category": "scroll-effects",
       "brief": "Create an original Scrolling Label Conveyor pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "depth-layer-product-story",
@@ -864,7 +873,8 @@
       "title": "Saving State Chip",
       "category": "misc",
       "brief": "Create an original Saving State Chip pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "drag-drop-target",
