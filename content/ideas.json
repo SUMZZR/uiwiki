@@ -982,7 +982,8 @@
       "title": "Dual State Send Button",
       "category": "buttons",
       "brief": "Create an original Dual State Send Button pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "pulse-trail-action",
@@ -1054,7 +1055,8 @@
       "title": "Signal Stack Card",
       "category": "cards",
       "brief": "Create an original Signal Stack Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "expandable-quote-dossier",
@@ -1126,7 +1128,8 @@
       "title": "Expandable Command Composer",
       "category": "inputs",
       "brief": "Create an original Expandable Command Composer pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "stepped-quantity-scrubber",
@@ -1198,7 +1201,8 @@
       "title": "Focus Lens Tab Bar",
       "category": "navigation",
       "brief": "Create an original Focus Lens Tab Bar pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "expandable-map-legend",
@@ -1270,7 +1274,8 @@
       "title": "Nested Ring Counter",
       "category": "loaders",
       "brief": "Create an original Nested Ring Counter pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "pathfinder-dot-loader",
@@ -1342,7 +1347,8 @@
       "title": "Variable Width Sentence",
       "category": "text-effects",
       "brief": "Create an original Variable Width Sentence pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "counterweight-word-swap",
@@ -1414,7 +1420,8 @@
       "title": "Modular Contour Field",
       "category": "backgrounds",
       "brief": "Create an original Modular Contour Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "focus-ring-blueprint",
@@ -1486,7 +1493,8 @@
       "title": "Index Card Route Swap",
       "category": "transitions",
       "brief": "Create an original Index Card Route Swap pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-curtain-transition",
@@ -1558,7 +1566,8 @@
       "title": "Chapter Rail Reveal",
       "category": "scroll-effects",
       "brief": "Create an original Chapter Rail Reveal pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "depth-caption-sequence",
@@ -1630,7 +1639,8 @@
       "title": "Inline Retry Notice",
       "category": "misc",
       "brief": "Create an original Inline Retry Notice pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "expandable-status-capsule",
