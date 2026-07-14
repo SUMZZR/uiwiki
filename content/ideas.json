@@ -960,6 +960,706 @@
       "brief": "Create an original Compact Share Sheet pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
       "status": "used",
       "usedAt": "2026-07-14T13:30:00.000Z"
+    },
+    {
+      "id": "tension-toggle-button",
+      "title": "Tension Toggle Button",
+      "category": "buttons",
+      "brief": "Create an original Tension Toggle Button pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "corner-peel-cta",
+      "title": "Corner Peel CTA",
+      "category": "buttons",
+      "brief": "Create an original Corner Peel CTA pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "dual-state-send-button",
+      "title": "Dual State Send Button",
+      "category": "buttons",
+      "brief": "Create an original Dual State Send Button pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "pulse-trail-action",
+      "title": "Pulse Trail Action",
+      "category": "buttons",
+      "brief": "Create an original Pulse Trail Action pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "sliding-counter-button",
+      "title": "Sliding Counter Button",
+      "category": "buttons",
+      "brief": "Create an original Sliding Counter Button pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "focus-halo-button",
+      "title": "Focus Halo Button",
+      "category": "buttons",
+      "brief": "Create an original Focus Halo Button pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "reversible-arrow-cta",
+      "title": "Reversible Arrow CTA",
+      "category": "buttons",
+      "brief": "Create an original Reversible Arrow CTA pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "split-progress-control",
+      "title": "Split Progress Control",
+      "category": "buttons",
+      "brief": "Create an original Split Progress Control pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "orbiting-label-button",
+      "title": "Orbiting Label Button",
+      "category": "buttons",
+      "brief": "Create an original Orbiting Label Button pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "compressed-icon-action",
+      "title": "Compressed Icon Action",
+      "category": "buttons",
+      "brief": "Create an original Compressed Icon Action pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "layer-lens-data-card",
+      "title": "Layer Lens Data Card",
+      "category": "cards",
+      "brief": "Create an original Layer Lens Data Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "folded-timeline-card",
+      "title": "Folded Timeline Card",
+      "category": "cards",
+      "brief": "Create an original Folded Timeline Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "signal-stack-card",
+      "title": "Signal Stack Card",
+      "category": "cards",
+      "brief": "Create an original Signal Stack Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "expandable-quote-dossier",
+      "title": "Expandable Quote Dossier",
+      "category": "cards",
+      "brief": "Create an original Expandable Quote Dossier pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "pinned-comparison-card",
+      "title": "Pinned Comparison Card",
+      "category": "cards",
+      "brief": "Create an original Pinned Comparison Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "metric-window-card",
+      "title": "Metric Window Card",
+      "category": "cards",
+      "brief": "Create an original Metric Window Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "rotating-status-deck",
+      "title": "Rotating Status Deck",
+      "category": "cards",
+      "brief": "Create an original Rotating Status Deck pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "reveal-rail-project-card",
+      "title": "Reveal Rail Project Card",
+      "category": "cards",
+      "brief": "Create an original Reveal Rail Project Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "modular-profile-summary",
+      "title": "Modular Profile Summary",
+      "category": "cards",
+      "brief": "Create an original Modular Profile Summary pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "focus-shift-media-card",
+      "title": "Focus Shift Media Card",
+      "category": "cards",
+      "brief": "Create an original Focus Shift Media Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "inline-token-search",
+      "title": "Inline Token Search",
+      "category": "inputs",
+      "brief": "Create an original Inline Token Search pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "confidence-meter-field",
+      "title": "Confidence Meter Field",
+      "category": "inputs",
+      "brief": "Create an original Confidence Meter Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "expandable-command-composer",
+      "title": "Expandable Command Composer",
+      "category": "inputs",
+      "brief": "Create an original Expandable Command Composer pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "stepped-quantity-scrubber",
+      "title": "Stepped Quantity Scrubber",
+      "category": "inputs",
+      "brief": "Create an original Stepped Quantity Scrubber pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "context-hint-input",
+      "title": "Context Hint Input",
+      "category": "inputs",
+      "brief": "Create an original Context Hint Input pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "segmented-time-field",
+      "title": "Segmented Time Field",
+      "category": "inputs",
+      "brief": "Create an original Segmented Time Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "voice-note-composer",
+      "title": "Voice Note Composer",
+      "category": "inputs",
+      "brief": "Create an original Voice Note Composer pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "accessible-gradient-stop-field",
+      "title": "Accessible Gradient Stop Field",
+      "category": "inputs",
+      "brief": "Create an original Accessible Gradient Stop Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "smart-url-inspector",
+      "title": "Smart URL Inspector",
+      "category": "inputs",
+      "brief": "Create an original Smart URL Inspector pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "validation-trail-input",
+      "title": "Validation Trail Input",
+      "category": "inputs",
+      "brief": "Create an original Validation Trail Input pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "orbit-section-navigator",
+      "title": "Orbit Section Navigator",
+      "category": "navigation",
+      "brief": "Create an original Orbit Section Navigator pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "stacked-breadcrumb-rail",
+      "title": "Stacked Breadcrumb Rail",
+      "category": "navigation",
+      "brief": "Create an original Stacked Breadcrumb Rail pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "focus-lens-tab-bar",
+      "title": "Focus Lens Tab Bar",
+      "category": "navigation",
+      "brief": "Create an original Focus Lens Tab Bar pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "expandable-map-legend",
+      "title": "Expandable Map Legend",
+      "category": "navigation",
+      "brief": "Create an original Expandable Map Legend pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "reading-chapter-dock",
+      "title": "Reading Chapter Dock",
+      "category": "navigation",
+      "brief": "Create an original Reading Chapter Dock pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "context-bubble-navigation",
+      "title": "Context Bubble Navigation",
+      "category": "navigation",
+      "brief": "Create an original Context Bubble Navigation pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "split-pane-switcher",
+      "title": "Split Pane Switcher",
+      "category": "navigation",
+      "brief": "Create an original Split Pane Switcher pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "keyboard-orbit-menu",
+      "title": "Keyboard Orbit Menu",
+      "category": "navigation",
+      "brief": "Create an original Keyboard Orbit Menu pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "progress-spine-navigation",
+      "title": "Progress Spine Navigation",
+      "category": "navigation",
+      "brief": "Create an original Progress Spine Navigation pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "adaptive-corner-tabs",
+      "title": "Adaptive Corner Tabs",
+      "category": "navigation",
+      "brief": "Create an original Adaptive Corner Tabs pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "ribbon-fold-loader",
+      "title": "Ribbon Fold Loader",
+      "category": "loaders",
+      "brief": "Create an original Ribbon Fold Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "signal-relay-loader",
+      "title": "Signal Relay Loader",
+      "category": "loaders",
+      "brief": "Create an original Signal Relay Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "nested-ring-counter",
+      "title": "Nested Ring Counter",
+      "category": "loaders",
+      "brief": "Create an original Nested Ring Counter pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "pathfinder-dot-loader",
+      "title": "Pathfinder Dot Loader",
+      "category": "loaders",
+      "brief": "Create an original Pathfinder Dot Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "elastic-type-loader",
+      "title": "Elastic Type Loader",
+      "category": "loaders",
+      "brief": "Create an original Elastic Type Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "stacked-tile-progress",
+      "title": "Stacked Tile Progress",
+      "category": "loaders",
+      "brief": "Create an original Stacked Tile Progress pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "scanning-grid-loader",
+      "title": "Scanning Grid Loader",
+      "category": "loaders",
+      "brief": "Create an original Scanning Grid Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "packet-orbit-loader",
+      "title": "Packet Orbit Loader",
+      "category": "loaders",
+      "brief": "Create an original Packet Orbit Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "breathing-bracket-loader",
+      "title": "Breathing Bracket Loader",
+      "category": "loaders",
+      "brief": "Create an original Breathing Bracket Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "measured-step-loader",
+      "title": "Measured Step Loader",
+      "category": "loaders",
+      "brief": "Create an original Measured Step Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "baseline-relay-headline",
+      "title": "Baseline Relay Headline",
+      "category": "text-effects",
+      "brief": "Create an original Baseline Relay Headline pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "bracket-reveal-title",
+      "title": "Bracket Reveal Title",
+      "category": "text-effects",
+      "brief": "Create an original Bracket Reveal Title pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "variable-width-sentence",
+      "title": "Variable Width Sentence",
+      "category": "text-effects",
+      "brief": "Create an original Variable Width Sentence pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "counterweight-word-swap",
+      "title": "Counterweight Word Swap",
+      "category": "text-effects",
+      "brief": "Create an original Counterweight Word Swap pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "editorial-index-reveal",
+      "title": "Editorial Index Reveal",
+      "category": "text-effects",
+      "brief": "Create an original Editorial Index Reveal pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "split-axis-headline",
+      "title": "Split Axis Headline",
+      "category": "text-effects",
+      "brief": "Create an original Split Axis Headline pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "tracking-pulse-label",
+      "title": "Tracking Pulse Label",
+      "category": "text-effects",
+      "brief": "Create an original Tracking Pulse Label pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "margin-note-typewriter",
+      "title": "Margin Note Typewriter",
+      "category": "text-effects",
+      "brief": "Create an original Margin Note Typewriter pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "number-grid-metric",
+      "title": "Number Grid Metric",
+      "category": "text-effects",
+      "brief": "Create an original Number Grid Metric pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "underline-route-sentence",
+      "title": "Underline Route Sentence",
+      "category": "text-effects",
+      "brief": "Create an original Underline Route Sentence pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "measured-dot-atlas",
+      "title": "Measured Dot Atlas",
+      "category": "backgrounds",
+      "brief": "Create an original Measured Dot Atlas pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "offset-ruler-canvas",
+      "title": "Offset Ruler Canvas",
+      "category": "backgrounds",
+      "brief": "Create an original Offset Ruler Canvas pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "modular-contour-field",
+      "title": "Modular Contour Field",
+      "category": "backgrounds",
+      "brief": "Create an original Modular Contour Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "focus-ring-blueprint",
+      "title": "Focus Ring Blueprint",
+      "category": "backgrounds",
+      "brief": "Create an original Focus Ring Blueprint pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "sparse-label-matrix",
+      "title": "Sparse Label Matrix",
+      "category": "backgrounds",
+      "brief": "Create an original Sparse Label Matrix pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "paper-cutout-field",
+      "title": "Paper Cutout Field",
+      "category": "backgrounds",
+      "brief": "Create an original Paper Cutout Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "connected-dash-atlas",
+      "title": "Connected Dash Atlas",
+      "category": "backgrounds",
+      "brief": "Create an original Connected Dash Atlas pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "editorial-axis-canvas",
+      "title": "Editorial Axis Canvas",
+      "category": "backgrounds",
+      "brief": "Create an original Editorial Axis Canvas pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "quiet-coordinate-field",
+      "title": "Quiet Coordinate Field",
+      "category": "backgrounds",
+      "brief": "Create an original Quiet Coordinate Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "layered-registration-grid",
+      "title": "Layered Registration Grid",
+      "category": "backgrounds",
+      "brief": "Create an original Layered Registration Grid pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "corner-fold-route-transition",
+      "title": "Corner Fold Route Transition",
+      "category": "transitions",
+      "brief": "Create an original Corner Fold Route Transition pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "panel-relay-transition",
+      "title": "Panel Relay Transition",
+      "category": "transitions",
+      "brief": "Create an original Panel Relay Transition pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "index-card-route-swap",
+      "title": "Index Card Route Swap",
+      "category": "transitions",
+      "brief": "Create an original Index Card Route Swap pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "measured-curtain-transition",
+      "title": "Measured Curtain Transition",
+      "category": "transitions",
+      "brief": "Create an original Measured Curtain Transition pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "shared-token-handoff",
+      "title": "Shared Token Handoff",
+      "category": "transitions",
+      "brief": "Create an original Shared Token Handoff pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "split-canvas-reveal",
+      "title": "Split Canvas Reveal",
+      "category": "transitions",
+      "brief": "Create an original Split Canvas Reveal pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "depth-rail-transition",
+      "title": "Depth Rail Transition",
+      "category": "transitions",
+      "brief": "Create an original Depth Rail Transition pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "focus-window-route-change",
+      "title": "Focus Window Route Change",
+      "category": "transitions",
+      "brief": "Create an original Focus Window Route Change pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "stacked-sheet-crossfade",
+      "title": "Stacked Sheet Crossfade",
+      "category": "transitions",
+      "brief": "Create an original Stacked Sheet Crossfade pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "origin-marker-transition",
+      "title": "Origin Marker Transition",
+      "category": "transitions",
+      "brief": "Create an original Origin Marker Transition pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "sticky-metric-relay",
+      "title": "Sticky Metric Relay",
+      "category": "scroll-effects",
+      "brief": "Create an original Sticky Metric Relay pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "scroll-framed-case-study",
+      "title": "Scroll Framed Case Study",
+      "category": "scroll-effects",
+      "brief": "Create an original Scroll Framed Case Study pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "chapter-rail-reveal",
+      "title": "Chapter Rail Reveal",
+      "category": "scroll-effects",
+      "brief": "Create an original Chapter Rail Reveal pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "depth-caption-sequence",
+      "title": "Depth Caption Sequence",
+      "category": "scroll-effects",
+      "brief": "Create an original Depth Caption Sequence pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "measured-story-progress",
+      "title": "Measured Story Progress",
+      "category": "scroll-effects",
+      "brief": "Create an original Measured Story Progress pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "pinned-comparison-chapters",
+      "title": "Pinned Comparison Chapters",
+      "category": "scroll-effects",
+      "brief": "Create an original Pinned Comparison Chapters pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "scroll-activated-diagram",
+      "title": "Scroll Activated Diagram",
+      "category": "scroll-effects",
+      "brief": "Create an original Scroll Activated Diagram pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "viewport-label-stack",
+      "title": "Viewport Label Stack",
+      "category": "scroll-effects",
+      "brief": "Create an original Viewport Label Stack pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "native-snap-feature-rail",
+      "title": "Native Snap Feature Rail",
+      "category": "scroll-effects",
+      "brief": "Create an original Native Snap Feature Rail pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "reading-margin-progress",
+      "title": "Reading Margin Progress",
+      "category": "scroll-effects",
+      "brief": "Create an original Reading Margin Progress pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "compact-permission-prompt",
+      "title": "Compact Permission Prompt",
+      "category": "misc",
+      "brief": "Create an original Compact Permission Prompt pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "presence-trail-badge",
+      "title": "Presence Trail Badge",
+      "category": "misc",
+      "brief": "Create an original Presence Trail Badge pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "inline-retry-notice",
+      "title": "Inline Retry Notice",
+      "category": "misc",
+      "brief": "Create an original Inline Retry Notice pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "expandable-status-capsule",
+      "title": "Expandable Status Capsule",
+      "category": "misc",
+      "brief": "Create an original Expandable Status Capsule pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "selection-count-toolbar",
+      "title": "Selection Count Toolbar",
+      "category": "misc",
+      "brief": "Create an original Selection Count Toolbar pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "accessible-reaction-dock",
+      "title": "Accessible Reaction Dock",
+      "category": "misc",
+      "brief": "Create an original Accessible Reaction Dock pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "sync-conflict-banner",
+      "title": "Sync Conflict Banner",
+      "category": "misc",
+      "brief": "Create an original Sync Conflict Banner pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "floating-context-hint",
+      "title": "Floating Context Hint",
+      "category": "misc",
+      "brief": "Create an original Floating Context Hint pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "keyboard-mode-indicator",
+      "title": "Keyboard Mode Indicator",
+      "category": "misc",
+      "brief": "Create an original Keyboard Mode Indicator pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "queued-upload-marker",
+      "title": "Queued Upload Marker",
+      "category": "misc",
+      "brief": "Create an original Queued Upload Marker pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
+      "status": "available"
     }
   ]
 }
