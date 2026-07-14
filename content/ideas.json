@@ -990,7 +990,8 @@
       "title": "Pulse Trail Action",
       "category": "buttons",
       "brief": "Create an original Pulse Trail Action pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "sliding-counter-button",
@@ -1063,7 +1064,8 @@
       "title": "Expandable Quote Dossier",
       "category": "cards",
       "brief": "Create an original Expandable Quote Dossier pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "pinned-comparison-card",
@@ -1136,7 +1138,8 @@
       "title": "Stepped Quantity Scrubber",
       "category": "inputs",
       "brief": "Create an original Stepped Quantity Scrubber pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "context-hint-input",
@@ -1209,7 +1212,8 @@
       "title": "Expandable Map Legend",
       "category": "navigation",
       "brief": "Create an original Expandable Map Legend pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "reading-chapter-dock",
@@ -1282,7 +1286,8 @@
       "title": "Pathfinder Dot Loader",
       "category": "loaders",
       "brief": "Create an original Pathfinder Dot Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "elastic-type-loader",
@@ -1355,7 +1360,8 @@
       "title": "Counterweight Word Swap",
       "category": "text-effects",
       "brief": "Create an original Counterweight Word Swap pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "editorial-index-reveal",
@@ -1428,7 +1434,8 @@
       "title": "Focus Ring Blueprint",
       "category": "backgrounds",
       "brief": "Create an original Focus Ring Blueprint pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "sparse-label-matrix",
@@ -1501,7 +1508,8 @@
       "title": "Measured Curtain Transition",
       "category": "transitions",
       "brief": "Create an original Measured Curtain Transition pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "shared-token-handoff",
@@ -1574,7 +1582,8 @@
       "title": "Depth Caption Sequence",
       "category": "scroll-effects",
       "brief": "Create an original Depth Caption Sequence pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-story-progress",
@@ -1647,7 +1656,8 @@
       "title": "Expandable Status Capsule",
       "category": "misc",
       "brief": "Create an original Expandable Status Capsule pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "selection-count-toolbar",
