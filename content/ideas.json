@@ -94,7 +94,8 @@
       "title": "Micro Burst Favorite Button",
       "category": "buttons",
       "brief": "Create an original Micro Burst Favorite Button pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "cursor-reveal-case-study-card",
@@ -189,7 +190,8 @@
       "title": "Milestone Route Card",
       "category": "cards",
       "brief": "Create an original Milestone Route Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "elastic-tag-input",
@@ -284,7 +286,8 @@
       "title": "Accessible Color Value Input",
       "category": "inputs",
       "brief": "Create an original Accessible Color Value Input pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "sliding-rail-navigation",
@@ -379,7 +382,8 @@
       "title": "Reading Position Header",
       "category": "navigation",
       "brief": "Create an original Reading Position Header pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "folding-square-loader",
@@ -474,7 +478,8 @@
       "title": "Growing Path Loader",
       "category": "loaders",
       "brief": "Create an original Growing Path Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "editorial-line-mask-reveal",
@@ -569,7 +574,8 @@
       "title": "Number Odometer Metric",
       "category": "text-effects",
       "brief": "Create an original Number Odometer Metric pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "reactive-crosshair-field",
@@ -664,7 +670,8 @@
       "title": "Drifting Dash Pattern",
       "category": "backgrounds",
       "brief": "Create an original Drifting Dash Pattern pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "stack-push-page-transition",
@@ -759,7 +766,8 @@
       "title": "Card to Canvas Transition",
       "category": "transitions",
       "brief": "Create an original Card to Canvas Transition pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "scroll-pinned-number-story",
@@ -854,7 +862,8 @@
       "title": "Sticky Caption Swap",
       "category": "scroll-effects",
       "brief": "Create an original Sticky Caption Swap pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "undo-action-snackbar",
@@ -949,7 +958,8 @@
       "title": "Compact Share Sheet",
       "category": "misc",
       "brief": "Create an original Compact Share Sheet pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     }
   ]
 }
