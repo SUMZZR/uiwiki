@@ -2606,7 +2606,8 @@
       "title": "Elastic Count Capsule",
       "category": "buttons",
       "brief": "Create an original Elastic Count Capsule pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "pinned-confirm-control",
@@ -2681,7 +2682,8 @@
       "title": "Modular Release Card",
       "category": "cards",
       "brief": "Create an original Modular Release Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "folded-audit-panel",
@@ -2756,7 +2758,8 @@
       "title": "Keyboard Range Composer",
       "category": "inputs",
       "brief": "Create an original Keyboard Range Composer pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "segmented-metric-field",
@@ -2831,7 +2834,8 @@
       "title": "Keyboard Chapter Map",
       "category": "navigation",
       "brief": "Create an original Keyboard Chapter Map pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "offset-navigation-dossier",
@@ -2906,7 +2910,8 @@
       "title": "Segment Orbit Progress",
       "category": "loaders",
       "brief": "Create an original Segment Orbit Progress pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "stacked-node-counter",
@@ -2981,7 +2986,8 @@
       "title": "Bracketed Word Sequence",
       "category": "text-effects",
       "brief": "Create an original Bracketed Word Sequence pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "margin-axis-statement",
@@ -3056,7 +3062,8 @@
       "title": "Editorial Module Field",
       "category": "backgrounds",
       "brief": "Create an original Editorial Module Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "focus-dot-landscape",
@@ -3131,7 +3138,8 @@
       "title": "Modular Depth Wipe",
       "category": "transitions",
       "brief": "Create an original Modular Depth Wipe pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "folded-route-relay",
@@ -3206,7 +3214,8 @@
       "title": "Reading Metric Canvas",
       "category": "scroll-effects",
       "brief": "Create an original Reading Metric Canvas pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "sticky-chapter-comparator",
@@ -3281,7 +3290,8 @@
       "title": "Presence Summary Badge",
       "category": "misc",
       "brief": "Create an original Presence Summary Badge pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "expandable-shortcut-notice",
