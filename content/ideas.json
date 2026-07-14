@@ -1838,7 +1838,8 @@
       "title": "Stacked State CTA",
       "category": "buttons",
       "brief": "Create an original Stacked State CTA pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "offset-ledger-card",
@@ -1917,7 +1918,8 @@
       "title": "Stacked Release Dossier",
       "category": "cards",
       "brief": "Create an original Stacked Release Dossier pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "inline-constraint-editor",
@@ -1996,7 +1998,8 @@
       "title": "Keyboard Color Inspector",
       "category": "inputs",
       "brief": "Create an original Keyboard Color Inspector pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-dock-navigation",
@@ -2075,7 +2078,8 @@
       "title": "Adaptive Reading Compass",
       "category": "navigation",
       "brief": "Create an original Adaptive Reading Compass pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "segment-relay-loader",
@@ -2154,7 +2158,8 @@
       "title": "Stacked Pulse Meter",
       "category": "loaders",
       "brief": "Create an original Stacked Pulse Meter pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "editorial-weight-relay",
@@ -2233,7 +2238,8 @@
       "title": "Modular Glyph Sequence",
       "category": "text-effects",
       "brief": "Create an original Modular Glyph Sequence pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "offset-baseline-field",
@@ -2312,7 +2318,8 @@
       "title": "Registration Dot Landscape",
       "category": "backgrounds",
       "brief": "Create an original Registration Dot Landscape pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-iris-transition",
@@ -2391,7 +2398,8 @@
       "title": "Counterweight Route Reveal",
       "category": "transitions",
       "brief": "Create an original Counterweight Route Reveal pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "sticky-annotation-relay",
@@ -2470,7 +2478,8 @@
       "title": "Sticky Outcome Comparator",
       "category": "scroll-effects",
       "brief": "Create an original Sticky Outcome Comparator pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "inline-version-resolver",
@@ -2549,7 +2558,8 @@
       "title": "Measured Toast Queue",
       "category": "misc",
       "brief": "Create an original Measured Toast Queue pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     }
   ]
 }
