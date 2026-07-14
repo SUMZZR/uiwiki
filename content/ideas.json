@@ -70,7 +70,8 @@
       "title": "Progress Border Button",
       "category": "buttons",
       "brief": "Create an original Progress Border Button pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "directional-wipe-button",
@@ -162,7 +163,8 @@
       "title": "Calendar Heatmap Card",
       "category": "cards",
       "brief": "Create an original Calendar Heatmap Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "sliding-comparison-card",
@@ -254,7 +256,8 @@
       "title": "Range Spotlight Slider",
       "category": "inputs",
       "brief": "Create an original Range Spotlight Slider pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "segmented-currency-input",
@@ -346,7 +349,8 @@
       "title": "Progressive Disclosure Menu",
       "category": "navigation",
       "brief": "Create an original Progressive Disclosure Menu pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "keyboard-grid-navigator",
@@ -438,7 +442,8 @@
       "title": "Soft Focus Loader",
       "category": "loaders",
       "brief": "Create an original Soft Focus Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "counting-dot-loader",
@@ -530,7 +535,8 @@
       "title": "Responsive Arc Label",
       "category": "text-effects",
       "brief": "Create an original Responsive Arc Label pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "kern-expansion-title",
@@ -622,7 +628,8 @@
       "title": "Topographic Line Field",
       "category": "backgrounds",
       "brief": "Create an original Topographic Line Field pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "modular-block-canvas",
@@ -714,7 +721,8 @@
       "title": "Scale Through Transition",
       "category": "transitions",
       "brief": "Create an original Scale Through Transition pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "navigation-origin-reveal",
@@ -806,7 +814,8 @@
       "title": "Section Color Marker",
       "category": "scroll-effects",
       "brief": "Create an original Section Color Marker pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "scroll-snap-process-cards",
@@ -898,7 +907,8 @@
       "title": "Floating Selection Toolbar",
       "category": "misc",
       "brief": "Create an original Floating Selection Toolbar pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "inline-success-stamp",
