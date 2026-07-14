@@ -1014,7 +1014,8 @@
       "title": "Reversible Arrow CTA",
       "category": "buttons",
       "brief": "Create an original Reversible Arrow CTA pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "split-progress-control",
@@ -1090,7 +1091,8 @@
       "title": "Rotating Status Deck",
       "category": "cards",
       "brief": "Create an original Rotating Status Deck pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "reveal-rail-project-card",
@@ -1166,7 +1168,8 @@
       "title": "Voice Note Composer",
       "category": "inputs",
       "brief": "Create an original Voice Note Composer pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "accessible-gradient-stop-field",
@@ -1242,7 +1245,8 @@
       "title": "Split Pane Switcher",
       "category": "navigation",
       "brief": "Create an original Split Pane Switcher pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "keyboard-orbit-menu",
@@ -1318,7 +1322,8 @@
       "title": "Scanning Grid Loader",
       "category": "loaders",
       "brief": "Create an original Scanning Grid Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "packet-orbit-loader",
@@ -1394,7 +1399,8 @@
       "title": "Tracking Pulse Label",
       "category": "text-effects",
       "brief": "Create an original Tracking Pulse Label pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "margin-note-typewriter",
@@ -1470,7 +1476,8 @@
       "title": "Connected Dash Atlas",
       "category": "backgrounds",
       "brief": "Create an original Connected Dash Atlas pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "editorial-axis-canvas",
@@ -1546,7 +1553,8 @@
       "title": "Depth Rail Transition",
       "category": "transitions",
       "brief": "Create an original Depth Rail Transition pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "focus-window-route-change",
@@ -1622,7 +1630,8 @@
       "title": "Scroll Activated Diagram",
       "category": "scroll-effects",
       "brief": "Create an original Scroll Activated Diagram pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "viewport-label-stack",
@@ -1698,7 +1707,8 @@
       "title": "Sync Conflict Banner",
       "category": "misc",
       "brief": "Create an original Sync Conflict Banner pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "floating-context-hint",
