@@ -38,7 +38,8 @@
       "title": "Elastic Arrow Button",
       "category": "buttons",
       "brief": "Create an original Elastic Arrow Button pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "segmented-choice-button",
@@ -126,7 +127,8 @@
       "title": "Rotating Testimonial Card",
       "category": "cards",
       "brief": "Create an original Rotating Testimonial Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "expandable-team-card",
@@ -214,7 +216,8 @@
       "title": "Smart Date Range Field",
       "category": "inputs",
       "brief": "Create an original Smart Date Range Field pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "password-strength-ladder",
@@ -302,7 +305,8 @@
       "title": "Circular Step Navigator",
       "category": "navigation",
       "brief": "Create an original Circular Step Navigator pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "collapsing-article-index",
@@ -390,7 +394,8 @@
       "title": "Morphing Logo Placeholder",
       "category": "loaders",
       "brief": "Create an original Morphing Logo Placeholder pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "bouncing-baseline-loader",
@@ -478,7 +483,8 @@
       "title": "Cursor Typed Annotation",
       "category": "text-effects",
       "brief": "Create an original Cursor Typed Annotation pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "outline-to-solid-headline",
@@ -566,7 +572,8 @@
       "title": "Soft Radar Field",
       "category": "backgrounds",
       "brief": "Create an original Soft Radar Field pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "offset-checker-canvas",
@@ -654,7 +661,8 @@
       "title": "Circular Mask Route Reveal",
       "category": "transitions",
       "brief": "Create an original Circular Mask Route Reveal pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "panel-handoff-transition",
@@ -742,7 +750,8 @@
       "title": "Image Crop Scroll Reveal",
       "category": "scroll-effects",
       "brief": "Create an original Image Crop Scroll Reveal pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "viewport-edge-progress",
@@ -830,7 +839,8 @@
       "title": "Keyboard Shortcut Coach",
       "category": "misc",
       "brief": "Create an original Keyboard Shortcut Coach pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "connection-quality-indicator",
