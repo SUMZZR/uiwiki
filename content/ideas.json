@@ -46,7 +46,8 @@
       "title": "Segmented Choice Button",
       "category": "buttons",
       "brief": "Create an original Segmented Choice Button pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "paper-fold-button",
@@ -135,7 +136,8 @@
       "title": "Expandable Team Card",
       "category": "cards",
       "brief": "Create an original Expandable Team Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "before-after-product-card",
@@ -224,7 +226,8 @@
       "title": "Password Strength Ladder",
       "category": "inputs",
       "brief": "Create an original Password Strength Ladder pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "expandable-filter-input",
@@ -313,7 +316,8 @@
       "title": "Collapsing Article Index",
       "category": "navigation",
       "brief": "Create an original Collapsing Article Index pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "floating-section-compass",
@@ -402,7 +406,8 @@
       "title": "Bouncing Baseline Loader",
       "category": "loaders",
       "brief": "Create an original Bouncing Baseline Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "radial-segment-loader",
@@ -491,7 +496,8 @@
       "title": "Outline to Solid Headline",
       "category": "text-effects",
       "brief": "Create an original Outline to Solid Headline pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "vertical-word-slot",
@@ -580,7 +586,8 @@
       "title": "Offset Checker Canvas",
       "category": "backgrounds",
       "brief": "Create an original Offset Checker Canvas pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "constellation-link-field",
@@ -669,7 +676,8 @@
       "title": "Panel Handoff Transition",
       "category": "transitions",
       "brief": "Create an original Panel Handoff Transition pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "vertical-slice-transition",
@@ -758,7 +766,8 @@
       "title": "Viewport Edge Progress",
       "category": "scroll-effects",
       "brief": "Create an original Viewport Edge Progress pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "scrolling-label-conveyor",
@@ -847,7 +856,8 @@
       "title": "Connection Quality Indicator",
       "category": "misc",
       "brief": "Create an original Connection Quality Indicator pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "saving-state-chip",
