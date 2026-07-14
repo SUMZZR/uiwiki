@@ -1,0 +1,845 @@
+{
+  "version": 1,
+  "ideas": [
+    {
+      "id": "split-label-launch-button",
+      "title": "Split Label Launch Button",
+      "category": "buttons",
+      "brief": "Create an original Split Label Launch Button pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "pressure-ring-button",
+      "title": "Pressure Ring Button",
+      "category": "buttons",
+      "brief": "Create an original Pressure Ring Button pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "sliding-icon-cta",
+      "title": "Sliding Icon CTA",
+      "category": "buttons",
+      "brief": "Create an original Sliding Icon CTA pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "hold-to-confirm-control",
+      "title": "Hold to Confirm Control",
+      "category": "buttons",
+      "brief": "Create an original Hold to Confirm Control pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "elastic-arrow-button",
+      "title": "Elastic Arrow Button",
+      "category": "buttons",
+      "brief": "Create an original Elastic Arrow Button pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "segmented-choice-button",
+      "title": "Segmented Choice Button",
+      "category": "buttons",
+      "brief": "Create an original Segmented Choice Button pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "paper-fold-button",
+      "title": "Paper Fold Button",
+      "category": "buttons",
+      "brief": "Create an original Paper Fold Button pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "orbit-badge-button",
+      "title": "Orbit Badge Button",
+      "category": "buttons",
+      "brief": "Create an original Orbit Badge Button pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "progress-border-button",
+      "title": "Progress Border Button",
+      "category": "buttons",
+      "brief": "Create an original Progress Border Button pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "directional-wipe-button",
+      "title": "Directional Wipe Button",
+      "category": "buttons",
+      "brief": "Create an original Directional Wipe Button pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "stacked-shadow-button",
+      "title": "Stacked Shadow Button",
+      "category": "buttons",
+      "brief": "Create an original Stacked Shadow Button pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "micro-burst-favorite-button",
+      "title": "Micro Burst Favorite Button",
+      "category": "buttons",
+      "brief": "Create an original Micro Burst Favorite Button pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "cursor-reveal-case-study-card",
+      "title": "Cursor Reveal Case Study Card",
+      "category": "cards",
+      "brief": "Create an original Cursor Reveal Case Study Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "foldout-pricing-card",
+      "title": "Foldout Pricing Card",
+      "category": "cards",
+      "brief": "Create an original Foldout Pricing Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "pinned-note-card",
+      "title": "Pinned Note Card",
+      "category": "cards",
+      "brief": "Create an original Pinned Note Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "layered-notification-card",
+      "title": "Layered Notification Card",
+      "category": "cards",
+      "brief": "Create an original Layered Notification Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "rotating-testimonial-card",
+      "title": "Rotating Testimonial Card",
+      "category": "cards",
+      "brief": "Create an original Rotating Testimonial Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "expandable-team-card",
+      "title": "Expandable Team Card",
+      "category": "cards",
+      "brief": "Create an original Expandable Team Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "before-after-product-card",
+      "title": "Before After Product Card",
+      "category": "cards",
+      "brief": "Create an original Before After Product Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "focus-window-media-card",
+      "title": "Focus Window Media Card",
+      "category": "cards",
+      "brief": "Create an original Focus Window Media Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "calendar-heatmap-card",
+      "title": "Calendar Heatmap Card",
+      "category": "cards",
+      "brief": "Create an original Calendar Heatmap Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "sliding-comparison-card",
+      "title": "Sliding Comparison Card",
+      "category": "cards",
+      "brief": "Create an original Sliding Comparison Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "peek-under-article-card",
+      "title": "Peek Under Article Card",
+      "category": "cards",
+      "brief": "Create an original Peek Under Article Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "milestone-route-card",
+      "title": "Milestone Route Card",
+      "category": "cards",
+      "brief": "Create an original Milestone Route Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "elastic-tag-input",
+      "title": "Elastic Tag Input",
+      "category": "inputs",
+      "brief": "Create an original Elastic Tag Input pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "inline-validation-field",
+      "title": "Inline Validation Field",
+      "category": "inputs",
+      "brief": "Create an original Inline Validation Field pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "voice-pulse-search-field",
+      "title": "Voice Pulse Search Field",
+      "category": "inputs",
+      "brief": "Create an original Voice Pulse Search Field pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "unit-scrubber-input",
+      "title": "Unit Scrubber Input",
+      "category": "inputs",
+      "brief": "Create an original Unit Scrubber Input pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "smart-date-range-field",
+      "title": "Smart Date Range Field",
+      "category": "inputs",
+      "brief": "Create an original Smart Date Range Field pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "password-strength-ladder",
+      "title": "Password Strength Ladder",
+      "category": "inputs",
+      "brief": "Create an original Password Strength Ladder pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "expandable-filter-input",
+      "title": "Expandable Filter Input",
+      "category": "inputs",
+      "brief": "Create an original Expandable Filter Input pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "tokenized-people-picker",
+      "title": "Tokenized People Picker",
+      "category": "inputs",
+      "brief": "Create an original Tokenized People Picker pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "range-spotlight-slider",
+      "title": "Range Spotlight Slider",
+      "category": "inputs",
+      "brief": "Create an original Range Spotlight Slider pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "segmented-currency-input",
+      "title": "Segmented Currency Input",
+      "category": "inputs",
+      "brief": "Create an original Segmented Currency Input pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "autosizing-message-composer",
+      "title": "Autosizing Message Composer",
+      "category": "inputs",
+      "brief": "Create an original Autosizing Message Composer pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "accessible-color-value-input",
+      "title": "Accessible Color Value Input",
+      "category": "inputs",
+      "brief": "Create an original Accessible Color Value Input pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "sliding-rail-navigation",
+      "title": "Sliding Rail Navigation",
+      "category": "navigation",
+      "brief": "Create an original Sliding Rail Navigation pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "expandable-sidebar-markers",
+      "title": "Expandable Sidebar Markers",
+      "category": "navigation",
+      "brief": "Create an original Expandable Sidebar Markers pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "corner-command-dock",
+      "title": "Corner Command Dock",
+      "category": "navigation",
+      "brief": "Create an original Corner Command Dock pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "context-trail-navigation",
+      "title": "Context Trail Navigation",
+      "category": "navigation",
+      "brief": "Create an original Context Trail Navigation pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "circular-step-navigator",
+      "title": "Circular Step Navigator",
+      "category": "navigation",
+      "brief": "Create an original Circular Step Navigator pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "collapsing-article-index",
+      "title": "Collapsing Article Index",
+      "category": "navigation",
+      "brief": "Create an original Collapsing Article Index pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "floating-section-compass",
+      "title": "Floating Section Compass",
+      "category": "navigation",
+      "brief": "Create an original Floating Section Compass pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "swipeable-mobile-tabs",
+      "title": "Swipeable Mobile Tabs",
+      "category": "navigation",
+      "brief": "Create an original Swipeable Mobile Tabs pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "progressive-disclosure-menu",
+      "title": "Progressive Disclosure Menu",
+      "category": "navigation",
+      "brief": "Create an original Progressive Disclosure Menu pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "keyboard-grid-navigator",
+      "title": "Keyboard Grid Navigator",
+      "category": "navigation",
+      "brief": "Create an original Keyboard Grid Navigator pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "stacked-page-switcher",
+      "title": "Stacked Page Switcher",
+      "category": "navigation",
+      "brief": "Create an original Stacked Page Switcher pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "reading-position-header",
+      "title": "Reading Position Header",
+      "category": "navigation",
+      "brief": "Create an original Reading Position Header pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "folding-square-loader",
+      "title": "Folding Square Loader",
+      "category": "loaders",
+      "brief": "Create an original Folding Square Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "breathing-type-loader",
+      "title": "Breathing Type Loader",
+      "category": "loaders",
+      "brief": "Create an original Breathing Type Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "domino-trail-loader",
+      "title": "Domino Trail Loader",
+      "category": "loaders",
+      "brief": "Create an original Domino Trail Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "scanning-line-loader",
+      "title": "Scanning Line Loader",
+      "category": "loaders",
+      "brief": "Create an original Scanning Line Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "morphing-logo-placeholder",
+      "title": "Morphing Logo Placeholder",
+      "category": "loaders",
+      "brief": "Create an original Morphing Logo Placeholder pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "bouncing-baseline-loader",
+      "title": "Bouncing Baseline Loader",
+      "category": "loaders",
+      "brief": "Create an original Bouncing Baseline Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "radial-segment-loader",
+      "title": "Radial Segment Loader",
+      "category": "loaders",
+      "brief": "Create an original Radial Segment Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "tumbling-tile-loader",
+      "title": "Tumbling Tile Loader",
+      "category": "loaders",
+      "brief": "Create an original Tumbling Tile Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "soft-focus-loader",
+      "title": "Soft Focus Loader",
+      "category": "loaders",
+      "brief": "Create an original Soft Focus Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "counting-dot-loader",
+      "title": "Counting Dot Loader",
+      "category": "loaders",
+      "brief": "Create an original Counting Dot Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "packet-transfer-loader",
+      "title": "Packet Transfer Loader",
+      "category": "loaders",
+      "brief": "Create an original Packet Transfer Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "growing-path-loader",
+      "title": "Growing Path Loader",
+      "category": "loaders",
+      "brief": "Create an original Growing Path Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "editorial-line-mask-reveal",
+      "title": "Editorial Line Mask Reveal",
+      "category": "text-effects",
+      "brief": "Create an original Editorial Line Mask Reveal pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "wave-baseline-headline",
+      "title": "Wave Baseline Headline",
+      "category": "text-effects",
+      "brief": "Create an original Wave Baseline Headline pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "rolling-word-carousel",
+      "title": "Rolling Word Carousel",
+      "category": "text-effects",
+      "brief": "Create an original Rolling Word Carousel pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "character-weight-pulse",
+      "title": "Character Weight Pulse",
+      "category": "text-effects",
+      "brief": "Create an original Character Weight Pulse pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "cursor-typed-annotation",
+      "title": "Cursor Typed Annotation",
+      "category": "text-effects",
+      "brief": "Create an original Cursor Typed Annotation pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "outline-to-solid-headline",
+      "title": "Outline to Solid Headline",
+      "category": "text-effects",
+      "brief": "Create an original Outline to Solid Headline pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "vertical-word-slot",
+      "title": "Vertical Word Slot",
+      "category": "text-effects",
+      "brief": "Create an original Vertical Word Slot pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "highlight-sweep-sentence",
+      "title": "Highlight Sweep Sentence",
+      "category": "text-effects",
+      "brief": "Create an original Highlight Sweep Sentence pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "responsive-arc-label",
+      "title": "Responsive Arc Label",
+      "category": "text-effects",
+      "brief": "Create an original Responsive Arc Label pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "kern-expansion-title",
+      "title": "Kern Expansion Title",
+      "category": "text-effects",
+      "brief": "Create an original Kern Expansion Title pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "footnote-popover-text",
+      "title": "Footnote Popover Text",
+      "category": "text-effects",
+      "brief": "Create an original Footnote Popover Text pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "number-odometer-metric",
+      "title": "Number Odometer Metric",
+      "category": "text-effects",
+      "brief": "Create an original Number Odometer Metric pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "reactive-crosshair-field",
+      "title": "Reactive Crosshair Field",
+      "category": "backgrounds",
+      "brief": "Create an original Reactive Crosshair Field pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "editorial-margin-canvas",
+      "title": "Editorial Margin Canvas",
+      "category": "backgrounds",
+      "brief": "Create an original Editorial Margin Canvas pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "floating-sticker-canvas",
+      "title": "Floating Sticker Canvas",
+      "category": "backgrounds",
+      "brief": "Create an original Floating Sticker Canvas pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "blueprint-measurement-grid",
+      "title": "Blueprint Measurement Grid",
+      "category": "backgrounds",
+      "brief": "Create an original Blueprint Measurement Grid pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "soft-radar-field",
+      "title": "Soft Radar Field",
+      "category": "backgrounds",
+      "brief": "Create an original Soft Radar Field pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "offset-checker-canvas",
+      "title": "Offset Checker Canvas",
+      "category": "backgrounds",
+      "brief": "Create an original Offset Checker Canvas pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "constellation-link-field",
+      "title": "Constellation Link Field",
+      "category": "backgrounds",
+      "brief": "Create an original Constellation Link Field pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "halftone-focus-canvas",
+      "title": "Halftone Focus Canvas",
+      "category": "backgrounds",
+      "brief": "Create an original Halftone Focus Canvas pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "topographic-line-field",
+      "title": "Topographic Line Field",
+      "category": "backgrounds",
+      "brief": "Create an original Topographic Line Field pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "modular-block-canvas",
+      "title": "Modular Block Canvas",
+      "category": "backgrounds",
+      "brief": "Create an original Modular Block Canvas pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "punched-paper-field",
+      "title": "Punched Paper Field",
+      "category": "backgrounds",
+      "brief": "Create an original Punched Paper Field pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "drifting-dash-pattern",
+      "title": "Drifting Dash Pattern",
+      "category": "backgrounds",
+      "brief": "Create an original Drifting Dash Pattern pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "stack-push-page-transition",
+      "title": "Stack Push Page Transition",
+      "category": "transitions",
+      "brief": "Create an original Stack Push Page Transition pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "diagonal-block-transition",
+      "title": "Diagonal Block Transition",
+      "category": "transitions",
+      "brief": "Create an original Diagonal Block Transition pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "index-stamp-route-transition",
+      "title": "Index Stamp Route Transition",
+      "category": "transitions",
+      "brief": "Create an original Index Stamp Route Transition pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "accordion-content-swap",
+      "title": "Accordion Content Swap",
+      "category": "transitions",
+      "brief": "Create an original Accordion Content Swap pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "circular-mask-route-reveal",
+      "title": "Circular Mask Route Reveal",
+      "category": "transitions",
+      "brief": "Create an original Circular Mask Route Reveal pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "panel-handoff-transition",
+      "title": "Panel Handoff Transition",
+      "category": "transitions",
+      "brief": "Create an original Panel Handoff Transition pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "vertical-slice-transition",
+      "title": "Vertical Slice Transition",
+      "category": "transitions",
+      "brief": "Create an original Vertical Slice Transition pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "paper-slide-route-change",
+      "title": "Paper Slide Route Change",
+      "category": "transitions",
+      "brief": "Create an original Paper Slide Route Change pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "scale-through-transition",
+      "title": "Scale Through Transition",
+      "category": "transitions",
+      "brief": "Create an original Scale Through Transition pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "navigation-origin-reveal",
+      "title": "Navigation Origin Reveal",
+      "category": "transitions",
+      "brief": "Create an original Navigation Origin Reveal pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "content-depth-crossfade",
+      "title": "Content Depth Crossfade",
+      "category": "transitions",
+      "brief": "Create an original Content Depth Crossfade pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "card-to-canvas-transition",
+      "title": "Card to Canvas Transition",
+      "category": "transitions",
+      "brief": "Create an original Card to Canvas Transition pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "scroll-pinned-number-story",
+      "title": "Scroll Pinned Number Story",
+      "category": "scroll-effects",
+      "brief": "Create an original Scroll Pinned Number Story pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "horizontal-feature-chapters",
+      "title": "Horizontal Feature Chapters",
+      "category": "scroll-effects",
+      "brief": "Create an original Horizontal Feature Chapters pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "scroll-activated-comparison",
+      "title": "Scroll Activated Comparison",
+      "category": "scroll-effects",
+      "brief": "Create an original Scroll Activated Comparison pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "sticky-quote-sequence",
+      "title": "Sticky Quote Sequence",
+      "category": "scroll-effects",
+      "brief": "Create an original Sticky Quote Sequence pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "image-crop-scroll-reveal",
+      "title": "Image Crop Scroll Reveal",
+      "category": "scroll-effects",
+      "brief": "Create an original Image Crop Scroll Reveal pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "viewport-edge-progress",
+      "title": "Viewport Edge Progress",
+      "category": "scroll-effects",
+      "brief": "Create an original Viewport Edge Progress pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "scrolling-label-conveyor",
+      "title": "Scrolling Label Conveyor",
+      "category": "scroll-effects",
+      "brief": "Create an original Scrolling Label Conveyor pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "depth-layer-product-story",
+      "title": "Depth Layer Product Story",
+      "category": "scroll-effects",
+      "brief": "Create an original Depth Layer Product Story pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "section-color-marker",
+      "title": "Section Color Marker",
+      "category": "scroll-effects",
+      "brief": "Create an original Section Color Marker pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "scroll-snap-process-cards",
+      "title": "Scroll Snap Process Cards",
+      "category": "scroll-effects",
+      "brief": "Create an original Scroll Snap Process Cards pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "reading-rhythm-highlighter",
+      "title": "Reading Rhythm Highlighter",
+      "category": "scroll-effects",
+      "brief": "Create an original Reading Rhythm Highlighter pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "sticky-caption-swap",
+      "title": "Sticky Caption Swap",
+      "category": "scroll-effects",
+      "brief": "Create an original Sticky Caption Swap pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "undo-action-snackbar",
+      "title": "Undo Action Snackbar",
+      "category": "misc",
+      "brief": "Create an original Undo Action Snackbar pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "presence-avatar-cluster",
+      "title": "Presence Avatar Cluster",
+      "category": "misc",
+      "brief": "Create an original Presence Avatar Cluster pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "expandable-help-beacon",
+      "title": "Expandable Help Beacon",
+      "category": "misc",
+      "brief": "Create an original Expandable Help Beacon pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "reaction-burst-picker",
+      "title": "Reaction Burst Picker",
+      "category": "misc",
+      "brief": "Create an original Reaction Burst Picker pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "keyboard-shortcut-coach",
+      "title": "Keyboard Shortcut Coach",
+      "category": "misc",
+      "brief": "Create an original Keyboard Shortcut Coach pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "connection-quality-indicator",
+      "title": "Connection Quality Indicator",
+      "category": "misc",
+      "brief": "Create an original Connection Quality Indicator pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "saving-state-chip",
+      "title": "Saving State Chip",
+      "category": "misc",
+      "brief": "Create an original Saving State Chip pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "drag-drop-target",
+      "title": "Drag Drop Target",
+      "category": "misc",
+      "brief": "Create an original Drag Drop Target pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "floating-selection-toolbar",
+      "title": "Floating Selection Toolbar",
+      "category": "misc",
+      "brief": "Create an original Floating Selection Toolbar pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "inline-success-stamp",
+      "title": "Inline Success Stamp",
+      "category": "misc",
+      "brief": "Create an original Inline Success Stamp pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "activity-pulse-marker",
+      "title": "Activity Pulse Marker",
+      "category": "misc",
+      "brief": "Create an original Activity Pulse Marker pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    },
+    {
+      "id": "compact-share-sheet",
+      "title": "Compact Share Sheet",
+      "category": "misc",
+      "brief": "Create an original Compact Share Sheet pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
+      "status": "available"
+    }
+  ]
+}

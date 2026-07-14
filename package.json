@@ -1,0 +1,46 @@
+{
+  "name": "uiwiki",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "prebuild": "pnpm validate:content",
+    "build": "next build --turbopack",
+    "generate": "tsx scripts/generate.ts",
+    "lighthouse": "lhci autorun --config=.lighthouserc.json",
+    "start": "next start",
+    "lint": "eslint . --max-warnings=0",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "validate:content": "tsx scripts/validate-content.ts",
+    "validate:demos": "tsx scripts/validate-demos.ts"
+  },
+  "dependencies": {
+    "framer-motion": "^12.23.26",
+    "fuse.js": "^7.1.0",
+    "lucide-react": "^0.468.0",
+    "next": "15.5.20",
+    "react": "19.1.4",
+    "react-dom": "19.1.4",
+    "react-live": "^4.1.8",
+    "sucrase": "^3.35.0",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.0",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@tailwindcss/postcss": "^4",
+    "@eslint/eslintrc": "^3",
+    "@lhci/cli": "0.15.1",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.20",
+    "jsdom": "^26.1.0",
+    "tailwindcss": "^4",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.4"
+  }
+}

@@ -1,0 +1,101 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --surface: #ffffff;
+  --surface-muted: #f4f5f6;
+  --foreground: #111111;
+  --text: #4a4a4f;
+  --muted: #9a9aa0;
+  --line: #ececee;
+  --lime: #d8f34e;
+  --lemon: #f5e642;
+  --cyan: #53e8d4;
+  --orange: #ff9950;
+  --purple: #c5bff0;
+  --pink: #f5c9d4;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-muted: var(--surface-muted);
+  --color-foreground: var(--foreground);
+  --color-copy: var(--text);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-lime: var(--lime);
+  --color-lemon: var(--lemon);
+  --color-cyan: var(--cyan);
+  --color-orange: var(--orange);
+  --color-purple: var(--purple);
+  --color-pink: var(--pink);
+  --font-sans: "Inter", "Inter Fallback", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Inter Tight", "Inter Tight Fallback", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", "JetBrains Mono Fallback", ui-monospace, monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--background);
+  color-scheme: light;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  background: var(--background);
+  color: var(--foreground);
+  font-family: "Inter", "Inter Fallback", ui-sans-serif, system-ui, sans-serif;
+}
+
+.ambient-shell {
+  position: relative;
+  isolation: isolate;
+}
+
+.ambient-shell::before {
+  position: absolute;
+  z-index: -1;
+  inset: -5rem -2rem auto;
+  height: 30rem;
+  border-radius: 999px;
+  background:
+    radial-gradient(circle at 20% 30%, rgb(245 230 66 / 12%), transparent 34%),
+    radial-gradient(circle at 62% 15%, rgb(245 201 212 / 11%), transparent 32%),
+    radial-gradient(circle at 88% 34%, rgb(83 232 212 / 10%), transparent 30%);
+  content: "";
+  filter: blur(28px);
+  pointer-events: none;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+::selection {
+  background: var(--lime);
+  color: var(--foreground);
+}
+
+:focus-visible {
+  outline: 3px solid color-mix(in srgb, var(--cyan) 70%, white);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
