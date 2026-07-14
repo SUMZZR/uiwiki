@@ -30,7 +30,8 @@
       "title": "Hold to Confirm Control",
       "category": "buttons",
       "brief": "Create an original Hold to Confirm Control pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "elastic-arrow-button",
@@ -117,7 +118,8 @@
       "title": "Layered Notification Card",
       "category": "cards",
       "brief": "Create an original Layered Notification Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "rotating-testimonial-card",
@@ -204,7 +206,8 @@
       "title": "Unit Scrubber Input",
       "category": "inputs",
       "brief": "Create an original Unit Scrubber Input pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "smart-date-range-field",
@@ -291,7 +294,8 @@
       "title": "Context Trail Navigation",
       "category": "navigation",
       "brief": "Create an original Context Trail Navigation pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "circular-step-navigator",
@@ -378,7 +382,8 @@
       "title": "Scanning Line Loader",
       "category": "loaders",
       "brief": "Create an original Scanning Line Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "morphing-logo-placeholder",
@@ -465,7 +470,8 @@
       "title": "Character Weight Pulse",
       "category": "text-effects",
       "brief": "Create an original Character Weight Pulse pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "cursor-typed-annotation",
@@ -552,7 +558,8 @@
       "title": "Blueprint Measurement Grid",
       "category": "backgrounds",
       "brief": "Create an original Blueprint Measurement Grid pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "soft-radar-field",
@@ -639,7 +646,8 @@
       "title": "Accordion Content Swap",
       "category": "transitions",
       "brief": "Create an original Accordion Content Swap pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "circular-mask-route-reveal",
@@ -726,7 +734,8 @@
       "title": "Sticky Quote Sequence",
       "category": "scroll-effects",
       "brief": "Create an original Sticky Quote Sequence pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "image-crop-scroll-reveal",
@@ -813,7 +822,8 @@
       "title": "Reaction Burst Picker",
       "category": "misc",
       "brief": "Create an original Reaction Burst Picker pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "keyboard-shortcut-coach",
