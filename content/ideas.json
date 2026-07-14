@@ -2566,7 +2566,8 @@
       "title": "Sliding Intent Button",
       "category": "buttons",
       "brief": "Create an original Sliding Intent Button pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "pivot-label-action",
@@ -2636,7 +2637,8 @@
       "title": "Layered Research Card",
       "category": "cards",
       "brief": "Create an original Layered Research Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "pivot-insight-summary",
@@ -2706,7 +2708,8 @@
       "title": "Measured Token Editor",
       "category": "inputs",
       "brief": "Create an original Measured Token Editor pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-time-composer",
@@ -2776,7 +2779,8 @@
       "title": "Layered Section Dock",
       "category": "navigation",
       "brief": "Create an original Layered Section Dock pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-route-tabs",
@@ -2846,7 +2850,8 @@
       "title": "Measured Packet Relay",
       "category": "loaders",
       "brief": "Create an original Measured Packet Relay pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "folding-signal-meter",
@@ -2916,7 +2921,8 @@
       "title": "Measured Caption Cascade",
       "category": "text-effects",
       "brief": "Create an original Measured Caption Cascade pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-weight-headline",
@@ -2986,7 +2992,8 @@
       "title": "Measured Signal Field",
       "category": "backgrounds",
       "brief": "Create an original Measured Signal Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-paper-atlas",
@@ -3056,7 +3063,8 @@
       "title": "Layered Iris Handoff",
       "category": "transitions",
       "brief": "Create an original Layered Iris Handoff pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-panel-swap",
@@ -3126,7 +3134,8 @@
       "title": "Measured Story Ladder",
       "category": "scroll-effects",
       "brief": "Create an original Measured Story Ladder pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "pinned-annotation-timeline",
@@ -3196,7 +3205,8 @@
       "title": "Inline Activity Resolver",
       "category": "misc",
       "brief": "Create an original Inline Activity Resolver pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "compact-selection-ledger",
