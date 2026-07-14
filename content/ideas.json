@@ -1038,7 +1038,8 @@
       "title": "Compressed Icon Action",
       "category": "buttons",
       "brief": "Create an original Compressed Icon Action pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layer-lens-data-card",
@@ -1117,7 +1118,8 @@
       "title": "Focus Shift Media Card",
       "category": "cards",
       "brief": "Create an original Focus Shift Media Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "inline-token-search",
@@ -1196,7 +1198,8 @@
       "title": "Validation Trail Input",
       "category": "inputs",
       "brief": "Create an original Validation Trail Input pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "orbit-section-navigator",
@@ -1275,7 +1278,8 @@
       "title": "Adaptive Corner Tabs",
       "category": "navigation",
       "brief": "Create an original Adaptive Corner Tabs pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "ribbon-fold-loader",
@@ -1354,7 +1358,8 @@
       "title": "Measured Step Loader",
       "category": "loaders",
       "brief": "Create an original Measured Step Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "baseline-relay-headline",
@@ -1433,7 +1438,8 @@
       "title": "Underline Route Sentence",
       "category": "text-effects",
       "brief": "Create an original Underline Route Sentence pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-dot-atlas",
@@ -1512,7 +1518,8 @@
       "title": "Layered Registration Grid",
       "category": "backgrounds",
       "brief": "Create an original Layered Registration Grid pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "corner-fold-route-transition",
@@ -1591,7 +1598,8 @@
       "title": "Origin Marker Transition",
       "category": "transitions",
       "brief": "Create an original Origin Marker Transition pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "sticky-metric-relay",
@@ -1670,7 +1678,8 @@
       "title": "Reading Margin Progress",
       "category": "scroll-effects",
       "brief": "Create an original Reading Margin Progress pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "compact-permission-prompt",
@@ -1749,7 +1758,8 @@
       "title": "Queued Upload Marker",
       "category": "misc",
       "brief": "Create an original Queued Upload Marker pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     }
   ]
 }
