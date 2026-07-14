@@ -1790,7 +1790,8 @@
       "title": "Signal Sweep CTA",
       "category": "buttons",
       "brief": "Create an original Signal Sweep CTA pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "folded-icon-trigger",
@@ -1863,7 +1864,8 @@
       "title": "Pinned Insight Panel",
       "category": "cards",
       "brief": "Create an original Pinned Insight Panel pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "sliding-annotation-card",
@@ -1936,7 +1938,8 @@
       "title": "Expandable Filter Sentence",
       "category": "inputs",
       "brief": "Create an original Expandable Filter Sentence pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-search-field",
@@ -2009,7 +2012,8 @@
       "title": "Context Rail Tabs",
       "category": "navigation",
       "brief": "Create an original Context Rail Tabs pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "pinned-section-switcher",
@@ -2082,7 +2086,8 @@
       "title": "Offset Packet Loader",
       "category": "loaders",
       "brief": "Create an original Offset Packet Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "nested-tile-scanner",
@@ -2155,7 +2160,8 @@
       "title": "Kinetic Index Caption",
       "category": "text-effects",
       "brief": "Create an original Kinetic Index Caption pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "bracketed-metric-reveal",
@@ -2228,7 +2234,8 @@
       "title": "Measured Arc Canvas",
       "category": "backgrounds",
       "brief": "Create an original Measured Arc Canvas pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "quiet-signal-topography",
@@ -2301,7 +2308,8 @@
       "title": "Pinned Route Expansion",
       "category": "transitions",
       "brief": "Create an original Pinned Route Expansion pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "signal-wipe-transition",
@@ -2374,7 +2382,8 @@
       "title": "Viewport Metric Ladder",
       "category": "scroll-effects",
       "brief": "Create an original Viewport Metric Ladder pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "native-snap-story-deck",
@@ -2447,7 +2456,8 @@
       "title": "Floating Shortcut Guide",
       "category": "misc",
       "brief": "Create an original Floating Shortcut Guide pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "queued-export-capsule",
