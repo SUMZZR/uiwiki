@@ -1022,7 +1022,8 @@
       "title": "Split Progress Control",
       "category": "buttons",
       "brief": "Create an original Split Progress Control pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "orbiting-label-button",
@@ -1099,7 +1100,8 @@
       "title": "Reveal Rail Project Card",
       "category": "cards",
       "brief": "Create an original Reveal Rail Project Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "modular-profile-summary",
@@ -1176,7 +1178,8 @@
       "title": "Accessible Gradient Stop Field",
       "category": "inputs",
       "brief": "Create an original Accessible Gradient Stop Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "smart-url-inspector",
@@ -1253,7 +1256,8 @@
       "title": "Keyboard Orbit Menu",
       "category": "navigation",
       "brief": "Create an original Keyboard Orbit Menu pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "progress-spine-navigation",
@@ -1330,7 +1334,8 @@
       "title": "Packet Orbit Loader",
       "category": "loaders",
       "brief": "Create an original Packet Orbit Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "breathing-bracket-loader",
@@ -1407,7 +1412,8 @@
       "title": "Margin Note Typewriter",
       "category": "text-effects",
       "brief": "Create an original Margin Note Typewriter pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "number-grid-metric",
@@ -1484,7 +1490,8 @@
       "title": "Editorial Axis Canvas",
       "category": "backgrounds",
       "brief": "Create an original Editorial Axis Canvas pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "quiet-coordinate-field",
@@ -1561,7 +1568,8 @@
       "title": "Focus Window Route Change",
       "category": "transitions",
       "brief": "Create an original Focus Window Route Change pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "stacked-sheet-crossfade",
@@ -1638,7 +1646,8 @@
       "title": "Viewport Label Stack",
       "category": "scroll-effects",
       "brief": "Create an original Viewport Label Stack pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "native-snap-feature-rail",
@@ -1715,7 +1724,8 @@
       "title": "Floating Context Hint",
       "category": "misc",
       "brief": "Create an original Floating Context Hint pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "keyboard-mode-indicator",
