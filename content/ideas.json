@@ -22,7 +22,8 @@
       "title": "Sliding Icon CTA",
       "category": "buttons",
       "brief": "Create an original Sliding Icon CTA pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "hold-to-confirm-control",
@@ -108,7 +109,8 @@
       "title": "Pinned Note Card",
       "category": "cards",
       "brief": "Create an original Pinned Note Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-notification-card",
@@ -194,7 +196,8 @@
       "title": "Voice Pulse Search Field",
       "category": "inputs",
       "brief": "Create an original Voice Pulse Search Field pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "unit-scrubber-input",
@@ -280,7 +283,8 @@
       "title": "Corner Command Dock",
       "category": "navigation",
       "brief": "Create an original Corner Command Dock pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "context-trail-navigation",
@@ -366,7 +370,8 @@
       "title": "Domino Trail Loader",
       "category": "loaders",
       "brief": "Create an original Domino Trail Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "scanning-line-loader",
@@ -452,7 +457,8 @@
       "title": "Rolling Word Carousel",
       "category": "text-effects",
       "brief": "Create an original Rolling Word Carousel pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "character-weight-pulse",
@@ -538,7 +544,8 @@
       "title": "Floating Sticker Canvas",
       "category": "backgrounds",
       "brief": "Create an original Floating Sticker Canvas pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "blueprint-measurement-grid",
@@ -624,7 +631,8 @@
       "title": "Index Stamp Route Transition",
       "category": "transitions",
       "brief": "Create an original Index Stamp Route Transition pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "accordion-content-swap",
@@ -710,7 +718,8 @@
       "title": "Scroll Activated Comparison",
       "category": "scroll-effects",
       "brief": "Create an original Scroll Activated Comparison pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "sticky-quote-sequence",
@@ -796,7 +805,8 @@
       "title": "Expandable Help Beacon",
       "category": "misc",
       "brief": "Create an original Expandable Help Beacon pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "reaction-burst-picker",
