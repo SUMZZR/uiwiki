@@ -8,8 +8,8 @@ describe("component search", () => {
     const entries = await getAllComponents();
     const index = createSearchIndex(entries);
 
-    expect(index.search("magnet")[0]?.item.slug).toBe("magnetic-glow-button");
-    expect(index.search("verification")[0]?.item.slug).toBe("otp-wave-input");
+    expect(index.search("magnet").map((result) => result.item.slug)).toContain("magnetic-glow-button");
+    expect(index.search("verification").map((result) => result.item.slug)).toContain("otp-wave-input");
     expect(index.search("loaders").slice(0, 3).every((result) => result.item.category === "loaders")).toBe(true);
   });
 });

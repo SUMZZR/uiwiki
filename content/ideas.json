@@ -1766,7 +1766,8 @@
       "title": "Magnetic Caption Button",
       "category": "buttons",
       "brief": "Create an original Magnetic Caption Button pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-confirm-action",
@@ -1836,7 +1837,8 @@
       "title": "Offset Ledger Card",
       "category": "cards",
       "brief": "Create an original Offset Ledger Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "expandable-signal-brief",
@@ -1906,7 +1908,8 @@
       "title": "Inline Constraint Editor",
       "category": "inputs",
       "brief": "Create an original Inline Constraint Editor pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-date-composer",
@@ -1976,7 +1979,8 @@
       "title": "Measured Dock Navigation",
       "category": "navigation",
       "brief": "Create an original Measured Dock Navigation pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-route-compass",
@@ -2046,7 +2050,8 @@
       "title": "Segment Relay Loader",
       "category": "loaders",
       "brief": "Create an original Segment Relay Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "folding-dot-counter",
@@ -2116,7 +2121,8 @@
       "title": "Editorial Weight Relay",
       "category": "text-effects",
       "brief": "Create an original Editorial Weight Relay pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-word-cascade",
@@ -2186,7 +2192,8 @@
       "title": "Offset Baseline Field",
       "category": "backgrounds",
       "brief": "Create an original Offset Baseline Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "modular-paper-matrix",
@@ -2256,7 +2263,8 @@
       "title": "Measured Iris Transition",
       "category": "transitions",
       "brief": "Create an original Measured Iris Transition pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-panel-handoff",
@@ -2326,7 +2334,8 @@
       "title": "Sticky Annotation Relay",
       "category": "scroll-effects",
       "brief": "Create an original Sticky Annotation Relay pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-chapter-canvas",
@@ -2396,7 +2405,8 @@
       "title": "Inline Version Resolver",
       "category": "misc",
       "brief": "Create an original Inline Version Resolver pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "compact-activity-ledger",
