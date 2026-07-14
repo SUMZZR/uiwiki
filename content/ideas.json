@@ -14,7 +14,8 @@
       "title": "Pressure Ring Button",
       "category": "buttons",
       "brief": "Create an original Pressure Ring Button pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "sliding-icon-cta",
@@ -99,7 +100,8 @@
       "title": "Foldout Pricing Card",
       "category": "cards",
       "brief": "Create an original Foldout Pricing Card pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "pinned-note-card",
@@ -184,7 +186,8 @@
       "title": "Inline Validation Field",
       "category": "inputs",
       "brief": "Create an original Inline Validation Field pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "voice-pulse-search-field",
@@ -269,7 +272,8 @@
       "title": "Expandable Sidebar Markers",
       "category": "navigation",
       "brief": "Create an original Expandable Sidebar Markers pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "corner-command-dock",
@@ -354,7 +358,8 @@
       "title": "Breathing Type Loader",
       "category": "loaders",
       "brief": "Create an original Breathing Type Loader pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "domino-trail-loader",
@@ -439,7 +444,8 @@
       "title": "Wave Baseline Headline",
       "category": "text-effects",
       "brief": "Create an original Wave Baseline Headline pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "rolling-word-carousel",
@@ -524,7 +530,8 @@
       "title": "Editorial Margin Canvas",
       "category": "backgrounds",
       "brief": "Create an original Editorial Margin Canvas pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "floating-sticker-canvas",
@@ -609,7 +616,8 @@
       "title": "Diagonal Block Transition",
       "category": "transitions",
       "brief": "Create an original Diagonal Block Transition pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "index-stamp-route-transition",
@@ -694,7 +702,8 @@
       "title": "Horizontal Feature Chapters",
       "category": "scroll-effects",
       "brief": "Create an original Horizontal Feature Chapters pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "scroll-activated-comparison",
@@ -779,7 +788,8 @@
       "title": "Presence Avatar Cluster",
       "category": "misc",
       "brief": "Create an original Presence Avatar Cluster pattern with one clear primary interaction, precise motion parameters, a light Bento-compatible composition, responsive behavior, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "expandable-help-beacon",
