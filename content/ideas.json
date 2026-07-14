@@ -2598,7 +2598,8 @@
       "title": "Focus Relay Button",
       "category": "buttons",
       "brief": "Create an original Focus Relay Button pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "elastic-count-capsule",
@@ -2672,7 +2673,8 @@
       "title": "Pinned Outcome Brief",
       "category": "cards",
       "brief": "Create an original Pinned Outcome Brief pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "modular-release-card",
@@ -2746,7 +2748,8 @@
       "title": "Context Search Inspector",
       "category": "inputs",
       "brief": "Create an original Context Search Inspector pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "keyboard-range-composer",
@@ -2820,7 +2823,8 @@
       "title": "Context Page Compass",
       "category": "navigation",
       "brief": "Create an original Context Page Compass pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "keyboard-chapter-map",
@@ -2894,7 +2898,8 @@
       "title": "Elastic Dot Ladder",
       "category": "loaders",
       "brief": "Create an original Elastic Dot Ladder pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "segment-orbit-progress",
@@ -2968,7 +2973,8 @@
       "title": "Tracking Number Relay",
       "category": "text-effects",
       "brief": "Create an original Tracking Number Relay pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "bracketed-word-sequence",
@@ -3042,7 +3048,8 @@
       "title": "Connected Index Canvas",
       "category": "backgrounds",
       "brief": "Create an original Connected Index Canvas pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "editorial-module-field",
@@ -3116,7 +3123,8 @@
       "title": "Signal Sheet Crossfade",
       "category": "transitions",
       "brief": "Create an original Signal Sheet Crossfade pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "modular-depth-wipe",
@@ -3190,7 +3198,8 @@
       "title": "Native Snap Dossier",
       "category": "scroll-effects",
       "brief": "Create an original Native Snap Dossier pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "reading-metric-canvas",
@@ -3264,7 +3273,8 @@
       "title": "Queued Version Capsule",
       "category": "misc",
       "brief": "Create an original Queued Version Capsule pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "presence-summary-badge",
