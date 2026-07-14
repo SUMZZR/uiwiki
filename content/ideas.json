@@ -966,7 +966,8 @@
       "title": "Tension Toggle Button",
       "category": "buttons",
       "brief": "Create an original Tension Toggle Button pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "corner-peel-cta",
@@ -1036,7 +1037,8 @@
       "title": "Layer Lens Data Card",
       "category": "cards",
       "brief": "Create an original Layer Lens Data Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "folded-timeline-card",
@@ -1106,7 +1108,8 @@
       "title": "Inline Token Search",
       "category": "inputs",
       "brief": "Create an original Inline Token Search pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "confidence-meter-field",
@@ -1176,7 +1179,8 @@
       "title": "Orbit Section Navigator",
       "category": "navigation",
       "brief": "Create an original Orbit Section Navigator pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "stacked-breadcrumb-rail",
@@ -1246,7 +1250,8 @@
       "title": "Ribbon Fold Loader",
       "category": "loaders",
       "brief": "Create an original Ribbon Fold Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "signal-relay-loader",
@@ -1316,7 +1321,8 @@
       "title": "Baseline Relay Headline",
       "category": "text-effects",
       "brief": "Create an original Baseline Relay Headline pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "bracket-reveal-title",
@@ -1386,7 +1392,8 @@
       "title": "Measured Dot Atlas",
       "category": "backgrounds",
       "brief": "Create an original Measured Dot Atlas pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "offset-ruler-canvas",
@@ -1456,7 +1463,8 @@
       "title": "Corner Fold Route Transition",
       "category": "transitions",
       "brief": "Create an original Corner Fold Route Transition pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "panel-relay-transition",
@@ -1526,7 +1534,8 @@
       "title": "Sticky Metric Relay",
       "category": "scroll-effects",
       "brief": "Create an original Sticky Metric Relay pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "scroll-framed-case-study",
@@ -1596,7 +1605,8 @@
       "title": "Compact Permission Prompt",
       "category": "misc",
       "brief": "Create an original Compact Permission Prompt pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "presence-trail-badge",
