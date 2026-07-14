@@ -1830,7 +1830,8 @@
       "title": "Inline Handoff Button",
       "category": "buttons",
       "brief": "Create an original Inline Handoff Button pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "stacked-state-cta",
@@ -1908,7 +1909,8 @@
       "title": "Measured Outcome Card",
       "category": "cards",
       "brief": "Create an original Measured Outcome Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "stacked-release-dossier",
@@ -1986,7 +1988,8 @@
       "title": "Confidence Path Editor",
       "category": "inputs",
       "brief": "Create an original Confidence Path Editor pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "keyboard-color-inspector",
@@ -2064,7 +2067,8 @@
       "title": "Modular Workspace Menu",
       "category": "navigation",
       "brief": "Create an original Modular Workspace Menu pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "adaptive-reading-compass",
@@ -2142,7 +2146,8 @@
       "title": "Orbiting Step Indicator",
       "category": "loaders",
       "brief": "Create an original Orbiting Step Indicator pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "stacked-pulse-meter",
@@ -2220,7 +2225,8 @@
       "title": "Counterbalanced Title",
       "category": "text-effects",
       "brief": "Create an original Counterbalanced Title pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "modular-glyph-sequence",
@@ -2298,7 +2304,8 @@
       "title": "Focus Path Canvas",
       "category": "backgrounds",
       "brief": "Create an original Focus Path Canvas pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "registration-dot-landscape",
@@ -2376,7 +2383,8 @@
       "title": "Focus Token Expansion",
       "category": "transitions",
       "brief": "Create an original Focus Token Expansion pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "counterweight-route-reveal",
@@ -2454,7 +2462,8 @@
       "title": "Depth Marker Chapters",
       "category": "scroll-effects",
       "brief": "Create an original Depth Marker Chapters pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "sticky-outcome-comparator",
@@ -2532,7 +2541,8 @@
       "title": "Presence Conflict Resolver",
       "category": "misc",
       "brief": "Create an original Presence Conflict Resolver pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-toast-queue",
