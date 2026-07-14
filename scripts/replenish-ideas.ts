@@ -5,42 +5,62 @@ const titles: Record<Category, string[]> = {
   buttons: [
     "Tension Toggle Button", "Corner Peel CTA", "Dual State Send Button", "Pulse Trail Action", "Sliding Counter Button",
     "Focus Halo Button", "Reversible Arrow CTA", "Split Progress Control", "Orbiting Label Button", "Compressed Icon Action",
+    "Magnetic Caption Button", "Layered Confirm Action", "Elastic Corner Control", "Signal Sweep CTA", "Folded Icon Trigger",
+    "Measured Hold Button", "Twin Track Action", "Radial Count Control", "Inline Handoff Button", "Stacked State CTA",
   ],
   cards: [
     "Layer Lens Data Card", "Folded Timeline Card", "Signal Stack Card", "Expandable Quote Dossier", "Pinned Comparison Card",
     "Metric Window Card", "Rotating Status Deck", "Reveal Rail Project Card", "Modular Profile Summary", "Focus Shift Media Card",
+    "Offset Ledger Card", "Expandable Signal Brief", "Layered Milestone Card", "Pinned Insight Panel", "Sliding Annotation Card",
+    "Modular Audit Summary", "Folded Resource Card", "Focus Rail Profile", "Measured Outcome Card", "Stacked Release Dossier",
   ],
   inputs: [
     "Inline Token Search", "Confidence Meter Field", "Expandable Command Composer", "Stepped Quantity Scrubber", "Context Hint Input",
     "Segmented Time Field", "Voice Note Composer", "Accessible Gradient Stop Field", "Smart URL Inspector", "Validation Trail Input",
+    "Inline Constraint Editor", "Layered Date Composer", "Accessible Range Matrix", "Expandable Filter Sentence", "Measured Search Field",
+    "Token Relay Composer", "Context Aware Number Field", "Segmented Address Input", "Confidence Path Editor", "Keyboard Color Inspector",
   ],
   navigation: [
     "Orbit Section Navigator", "Stacked Breadcrumb Rail", "Focus Lens Tab Bar", "Expandable Map Legend", "Reading Chapter Dock",
     "Context Bubble Navigation", "Split Pane Switcher", "Keyboard Orbit Menu", "Progress Spine Navigation", "Adaptive Corner Tabs",
+    "Measured Dock Navigation", "Layered Route Compass", "Expandable Chapter Strip", "Context Rail Tabs", "Pinned Section Switcher",
+    "Keyboard Map Navigator", "Offset Page Index", "Focus Trail Breadcrumbs", "Modular Workspace Menu", "Adaptive Reading Compass",
   ],
   loaders: [
     "Ribbon Fold Loader", "Signal Relay Loader", "Nested Ring Counter", "Pathfinder Dot Loader", "Elastic Type Loader",
     "Stacked Tile Progress", "Scanning Grid Loader", "Packet Orbit Loader", "Breathing Bracket Loader", "Measured Step Loader",
+    "Segment Relay Loader", "Folding Dot Counter", "Measured Wave Progress", "Offset Packet Loader", "Nested Tile Scanner",
+    "Signal Ladder Progress", "Elastic Index Loader", "Ribbon Node Counter", "Orbiting Step Indicator", "Stacked Pulse Meter",
   ],
   "text-effects": [
     "Baseline Relay Headline", "Bracket Reveal Title", "Variable Width Sentence", "Counterweight Word Swap", "Editorial Index Reveal",
     "Split Axis Headline", "Tracking Pulse Label", "Margin Note Typewriter", "Number Grid Metric", "Underline Route Sentence",
+    "Editorial Weight Relay", "Measured Word Cascade", "Split Baseline Statement", "Kinetic Index Caption", "Bracketed Metric Reveal",
+    "Tracking Shift Headline", "Layered Number Sentence", "Margin Rail Quote", "Counterbalanced Title", "Modular Glyph Sequence",
   ],
   backgrounds: [
     "Measured Dot Atlas", "Offset Ruler Canvas", "Modular Contour Field", "Focus Ring Blueprint", "Sparse Label Matrix",
     "Paper Cutout Field", "Connected Dash Atlas", "Editorial Axis Canvas", "Quiet Coordinate Field", "Layered Registration Grid",
+    "Offset Baseline Field", "Modular Paper Matrix", "Sparse Route Blueprint", "Measured Arc Canvas", "Quiet Signal Topography",
+    "Layered Index Field", "Editorial Tick Atlas", "Connected Module Grid", "Focus Path Canvas", "Registration Dot Landscape",
   ],
   transitions: [
     "Corner Fold Route Transition", "Panel Relay Transition", "Index Card Route Swap", "Measured Curtain Transition", "Shared Token Handoff",
     "Split Canvas Reveal", "Depth Rail Transition", "Focus Window Route Change", "Stacked Sheet Crossfade", "Origin Marker Transition",
+    "Measured Iris Transition", "Layered Panel Handoff", "Offset Sheet Reveal", "Pinned Route Expansion", "Signal Wipe Transition",
+    "Modular Canvas Swap", "Folded Depth Change", "Index Rail Crossfade", "Focus Token Expansion", "Counterweight Route Reveal",
   ],
   "scroll-effects": [
     "Sticky Metric Relay", "Scroll Framed Case Study", "Chapter Rail Reveal", "Depth Caption Sequence", "Measured Story Progress",
     "Pinned Comparison Chapters", "Scroll Activated Diagram", "Viewport Label Stack", "Native Snap Feature Rail", "Reading Margin Progress",
+    "Sticky Annotation Relay", "Measured Chapter Canvas", "Scroll Linked Card Dossier", "Viewport Metric Ladder", "Native Snap Story Deck",
+    "Pinned Signal Timeline", "Reading Axis Sequence", "Scroll Framed Blueprint", "Depth Marker Chapters", "Sticky Outcome Comparator",
   ],
   misc: [
     "Compact Permission Prompt", "Presence Trail Badge", "Inline Retry Notice", "Expandable Status Capsule", "Selection Count Toolbar",
     "Accessible Reaction Dock", "Sync Conflict Banner", "Floating Context Hint", "Keyboard Mode Indicator", "Queued Upload Marker",
+    "Inline Version Resolver", "Compact Activity Ledger", "Accessible Status Inspector", "Floating Shortcut Guide", "Queued Export Capsule",
+    "Selection Summary Badge", "Expandable Audit Notice", "Keyboard Focus Coach", "Presence Conflict Resolver", "Measured Toast Queue",
   ],
 };
 
