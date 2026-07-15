@@ -3374,7 +3374,8 @@
       "title": "Indexed Commit CTA",
       "category": "buttons",
       "brief": "Create an original Indexed Commit CTA pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "sliding-proof-action",
@@ -3445,7 +3446,8 @@
       "title": "Sliding Metric Dossier",
       "category": "cards",
       "brief": "Create an original Sliding Metric Dossier pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-decision-brief",
@@ -3516,7 +3518,8 @@
       "title": "Measured Duration Field",
       "category": "inputs",
       "brief": "Create an original Measured Duration Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-token-resolver",
@@ -3587,7 +3590,8 @@
       "title": "Layered Chapter Switcher",
       "category": "navigation",
       "brief": "Create an original Layered Chapter Switcher pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-context-tabs",
@@ -3658,7 +3662,8 @@
       "title": "Layered Step Counter",
       "category": "loaders",
       "brief": "Create an original Layered Step Counter pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-pulse-scanner",
@@ -3729,7 +3734,8 @@
       "title": "Layered Number Caption",
       "category": "text-effects",
       "brief": "Create an original Layered Number Caption pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-axis-headline",
@@ -3800,7 +3806,8 @@
       "title": "Layered Coordinate Atlas",
       "category": "backgrounds",
       "brief": "Create an original Layered Coordinate Atlas pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-module-blueprint",
@@ -3871,7 +3878,8 @@
       "title": "Layered Focus Wipe",
       "category": "transitions",
       "brief": "Create an original Layered Focus Wipe pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-route-fold",
@@ -3942,7 +3950,8 @@
       "title": "Sticky Signal Dossier",
       "category": "scroll-effects",
       "brief": "Create an original Sticky Signal Dossier pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "reading-route-comparator",
@@ -4013,7 +4022,8 @@
       "title": "Compact Route Inspector",
       "category": "misc",
       "brief": "Create an original Compact Route Inspector pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "accessible-queue-summary",
