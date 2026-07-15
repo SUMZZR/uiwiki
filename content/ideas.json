@@ -3390,7 +3390,8 @@
       "title": "Layered Route Trigger",
       "category": "buttons",
       "brief": "Create an original Layered Route Trigger pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-pulse-control",
@@ -3463,7 +3464,8 @@
       "title": "Measured Team Panel",
       "category": "cards",
       "brief": "Create an original Measured Team Panel pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "pinned-release-summary",
@@ -3536,7 +3538,8 @@
       "title": "Keyboard Ratio Editor",
       "category": "inputs",
       "brief": "Create an original Keyboard Ratio Editor pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "confidence-route-input",
@@ -3609,7 +3612,8 @@
       "title": "Pinned Route Menu",
       "category": "navigation",
       "brief": "Create an original Pinned Route Menu pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "focus-track-breadcrumbs",
@@ -3682,7 +3686,8 @@
       "title": "Folding Route Loader",
       "category": "loaders",
       "brief": "Create an original Folding Route Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "elastic-module-meter",
@@ -3755,7 +3760,8 @@
       "title": "Bracketed Signal Title",
       "category": "text-effects",
       "brief": "Create an original Bracketed Signal Title pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "editorial-metric-cascade",
@@ -3828,7 +3834,8 @@
       "title": "Quiet Path Matrix",
       "category": "backgrounds",
       "brief": "Create an original Quiet Path Matrix pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "editorial-signal-field",
@@ -3901,7 +3908,8 @@
       "title": "Pinned Canvas Relay",
       "category": "transitions",
       "brief": "Create an original Pinned Canvas Relay pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "signal-depth-expansion",
@@ -3974,7 +3982,8 @@
       "title": "Viewport Metric Sequence",
       "category": "scroll-effects",
       "brief": "Create an original Viewport Metric Sequence pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "native-snap-outcome-rail",
@@ -4047,7 +4056,8 @@
       "title": "Floating Status Resolver",
       "category": "misc",
       "brief": "Create an original Floating Status Resolver pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "keyboard-context-badge",
