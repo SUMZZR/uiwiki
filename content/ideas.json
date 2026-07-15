@@ -3422,7 +3422,8 @@
       "title": "Modular Send Control",
       "category": "buttons",
       "brief": "Create an original Modular Send Control pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "counterweight-action",
@@ -3499,7 +3500,8 @@
       "title": "Focus Track Dossier",
       "category": "cards",
       "brief": "Create an original Focus Track Dossier pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "offset-audit-summary",
@@ -3576,7 +3578,8 @@
       "title": "Focus Aware Command Field",
       "category": "inputs",
       "brief": "Create an original Focus Aware Command Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "accessible-scale-composer",
@@ -3653,7 +3656,8 @@
       "title": "Offset Project Dock",
       "category": "navigation",
       "brief": "Create an original Offset Project Dock pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "adaptive-reading-strip",
@@ -3730,7 +3734,8 @@
       "title": "Offset Node Scanner",
       "category": "loaders",
       "brief": "Create an original Offset Node Scanner pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "segmented-path-loader",
@@ -3807,7 +3812,8 @@
       "title": "Counterweight Glyph Reveal",
       "category": "text-effects",
       "brief": "Create an original Counterweight Glyph Reveal pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "modular-baseline-quote",
@@ -3884,7 +3890,8 @@
       "title": "Focus Tick Blueprint",
       "category": "backgrounds",
       "brief": "Create an original Focus Tick Blueprint pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "offset-dot-dossier",
@@ -3961,7 +3968,8 @@
       "title": "Counterweight Panel Swap",
       "category": "transitions",
       "brief": "Create an original Counterweight Panel Swap pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "folding-index-transition",
@@ -4038,7 +4046,8 @@
       "title": "Scroll Framed Evidence",
       "category": "scroll-effects",
       "brief": "Create an original Scroll Framed Evidence pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-viewport-ladder",
@@ -4115,7 +4124,8 @@
       "title": "Presence Signal Ledger",
       "category": "misc",
       "brief": "Create an original Presence Signal Ledger pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "expandable-retry-guide",
