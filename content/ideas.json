@@ -2630,7 +2630,8 @@
       "title": "Split Signal Button",
       "category": "buttons",
       "brief": "Create an original Split Signal Button pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "tension-rail-cta",
@@ -2708,7 +2709,8 @@
       "title": "Offset Resource Dossier",
       "category": "cards",
       "brief": "Create an original Offset Resource Dossier pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "stacked-signal-profile",
@@ -2786,7 +2788,8 @@
       "title": "Inline Date Resolver",
       "category": "inputs",
       "brief": "Create an original Inline Date Resolver pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "focus-aware-url-field",
@@ -2864,7 +2867,8 @@
       "title": "Modular Breadcrumb Strip",
       "category": "navigation",
       "brief": "Create an original Modular Breadcrumb Strip pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "adaptive-project-switcher",
@@ -2942,7 +2946,8 @@
       "title": "Breathing Tile Meter",
       "category": "loaders",
       "brief": "Create an original Breathing Tile Meter pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-index-scanner",
@@ -3020,7 +3025,8 @@
       "title": "Modular Letter Reveal",
       "category": "text-effects",
       "brief": "Create an original Modular Letter Reveal pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "baseline-signal-caption",
@@ -3098,7 +3104,8 @@
       "title": "Registration Path Grid",
       "category": "backgrounds",
       "brief": "Create an original Registration Path Grid pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "modular-tick-topography",
@@ -3176,7 +3183,8 @@
       "title": "Focus Rail Expansion",
       "category": "transitions",
       "brief": "Create an original Focus Rail Expansion pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "counterbalanced-canvas-change",
@@ -3254,7 +3262,8 @@
       "title": "Scroll Framed Outcome",
       "category": "scroll-effects",
       "brief": "Create an original Scroll Framed Outcome pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "viewport-route-timeline",
@@ -3332,7 +3341,8 @@
       "title": "Measured Conflict Resolver",
       "category": "misc",
       "brief": "Create an original Measured Conflict Resolver pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-toast-queue",
