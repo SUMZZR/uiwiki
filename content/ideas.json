@@ -3414,7 +3414,8 @@
       "title": "Folding Status Button",
       "category": "buttons",
       "brief": "Create an original Folding Status Button pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "modular-send-control",
@@ -3490,7 +3491,8 @@
       "title": "Modular Outcome Card",
       "category": "cards",
       "brief": "Create an original Modular Outcome Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "focus-track-dossier",
@@ -3566,7 +3568,8 @@
       "title": "Inline Constraint Builder",
       "category": "inputs",
       "brief": "Create an original Inline Constraint Builder pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "focus-aware-command-field",
@@ -3642,7 +3645,8 @@
       "title": "Modular Page Compass",
       "category": "navigation",
       "brief": "Create an original Modular Page Compass pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "offset-project-dock",
@@ -3718,7 +3722,8 @@
       "title": "Breathing Index Counter",
       "category": "loaders",
       "brief": "Create an original Breathing Index Counter pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "offset-node-scanner",
@@ -3794,7 +3799,8 @@
       "title": "Margin Route Sentence",
       "category": "text-effects",
       "brief": "Create an original Margin Route Sentence pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "counterweight-glyph-reveal",
@@ -3870,7 +3876,8 @@
       "title": "Registration Axis Topography",
       "category": "backgrounds",
       "brief": "Create an original Registration Axis Topography pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "focus-tick-blueprint",
@@ -3946,7 +3953,8 @@
       "title": "Offset Token Crossfade",
       "category": "transitions",
       "brief": "Create an original Offset Token Crossfade pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "counterweight-panel-swap",
@@ -4022,7 +4030,8 @@
       "title": "Depth Chapter Blueprint",
       "category": "scroll-effects",
       "brief": "Create an original Depth Chapter Blueprint pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "scroll-framed-evidence",
@@ -4098,7 +4107,8 @@
       "title": "Layered Permission Capsule",
       "category": "misc",
       "brief": "Create an original Layered Permission Capsule pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "presence-signal-ledger",
