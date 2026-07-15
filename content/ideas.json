@@ -3366,7 +3366,8 @@
       "title": "Axis Lock Button",
       "category": "buttons",
       "brief": "Create an original Axis Lock Button pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "indexed-commit-cta",
@@ -3436,7 +3437,8 @@
       "title": "Indexed Evidence Card",
       "category": "cards",
       "brief": "Create an original Indexed Evidence Card pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "sliding-metric-dossier",
@@ -3506,7 +3508,8 @@
       "title": "Indexed Search Composer",
       "category": "inputs",
       "brief": "Create an original Indexed Search Composer pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-duration-field",
@@ -3576,7 +3579,8 @@
       "title": "Indexed Workspace Rail",
       "category": "navigation",
       "brief": "Create an original Indexed Workspace Rail pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-chapter-switcher",
@@ -3646,7 +3650,8 @@
       "title": "Indexed Ribbon Progress",
       "category": "loaders",
       "brief": "Create an original Indexed Ribbon Progress pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-step-counter",
@@ -3716,7 +3721,8 @@
       "title": "Indexed Phrase Relay",
       "category": "text-effects",
       "brief": "Create an original Indexed Phrase Relay pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-number-caption",
@@ -3786,7 +3792,8 @@
       "title": "Indexed Arc Landscape",
       "category": "backgrounds",
       "brief": "Create an original Indexed Arc Landscape pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-coordinate-atlas",
@@ -3856,7 +3863,8 @@
       "title": "Indexed Sheet Handoff",
       "category": "transitions",
       "brief": "Create an original Indexed Sheet Handoff pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-focus-wipe",
@@ -3926,7 +3934,8 @@
       "title": "Indexed Story Canvas",
       "category": "scroll-effects",
       "brief": "Create an original Indexed Story Canvas pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "sticky-signal-dossier",
@@ -3996,7 +4005,8 @@
       "title": "Indexed Activity Notice",
       "category": "misc",
       "brief": "Create an original Indexed Activity Notice pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "compact-route-inspector",
