@@ -2638,7 +2638,8 @@
       "title": "Tension Rail CTA",
       "category": "buttons",
       "brief": "Create an original Tension Rail CTA pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-research-card",
@@ -2717,7 +2718,8 @@
       "title": "Stacked Signal Profile",
       "category": "cards",
       "brief": "Create an original Stacked Signal Profile pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-token-editor",
@@ -2796,7 +2798,8 @@
       "title": "Focus Aware URL Field",
       "category": "inputs",
       "brief": "Create an original Focus Aware URL Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-section-dock",
@@ -2875,7 +2878,8 @@
       "title": "Adaptive Project Switcher",
       "category": "navigation",
       "brief": "Create an original Adaptive Project Switcher pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-packet-relay",
@@ -2954,7 +2958,8 @@
       "title": "Measured Index Scanner",
       "category": "loaders",
       "brief": "Create an original Measured Index Scanner pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-caption-cascade",
@@ -3033,7 +3038,8 @@
       "title": "Baseline Signal Caption",
       "category": "text-effects",
       "brief": "Create an original Baseline Signal Caption pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-signal-field",
@@ -3112,7 +3118,8 @@
       "title": "Modular Tick Topography",
       "category": "backgrounds",
       "brief": "Create an original Modular Tick Topography pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-iris-handoff",
@@ -3191,7 +3198,8 @@
       "title": "Counterbalanced Canvas Change",
       "category": "transitions",
       "brief": "Create an original Counterbalanced Canvas Change pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-story-ladder",
@@ -3270,7 +3278,8 @@
       "title": "Viewport Route Timeline",
       "category": "scroll-effects",
       "brief": "Create an original Viewport Route Timeline pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "inline-activity-resolver",
@@ -3349,7 +3358,8 @@
       "title": "Layered Toast Queue",
       "category": "misc",
       "brief": "Create an original Layered Toast Queue pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     }
   ]
 }
