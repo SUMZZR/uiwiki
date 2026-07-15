@@ -76,9 +76,9 @@ function ComponentCard({ entry, index }: { entry: PreviewEntry; index: number })
       whileHover={{ y: -3, boxShadow: "0 12px 30px rgba(0,0,0,0.08)" }}
       transition={{ type: "spring", stiffness: 300, damping: 24 }}
       onHoverStart={replay}
-      className={`group min-w-0 overflow-hidden rounded-[24px] border border-line p-3 shadow-[0_2px_16px_rgba(0,0,0,0.04)] ${isWide ? "md:col-span-2" : ""} ${isDark ? "bg-foreground" : isAccent ? "bg-lemon" : "bg-white"}`}
+      className={`group min-w-0 overflow-hidden rounded-[24px] border border-line p-3 shadow-[0_2px_16px_rgba(0,0,0,0.04)] transition-colors duration-200 ${isWide ? "md:col-span-2" : ""} ${isDark ? "bg-[#111111] dark:border-cyan/25 dark:bg-cyan" : isAccent ? "bg-lemon" : "bg-surface"}`}
     >
-      <div ref={ref} className="min-h-[220px] overflow-hidden rounded-[20px] bg-surface-muted">
+      <div ref={ref} className="min-h-[220px] overflow-hidden rounded-[20px] bg-[#f4f5f6] ring-1 ring-black/5 dark:ring-white/10">
         {isNear ? (
           <LiveDemo code={entry.demoCode} replayKey={replayKey} className="h-full min-h-[220px] [&>div]:h-full" />
         ) : (
@@ -87,15 +87,15 @@ function ComponentCard({ entry, index }: { entry: PreviewEntry; index: number })
           </div>
         )}
       </div>
-      <div className={`flex items-end justify-between gap-4 px-2 pb-2 pt-4 ${isDark ? "text-white" : "text-foreground"}`}>
+      <div className={`flex items-end justify-between gap-4 px-2 pb-2 pt-4 ${isDark ? "text-white dark:text-[#07100f]" : isAccent ? "text-[#111111]" : "text-foreground"}`}>
         <div className="min-w-0">
-          <span className={`inline-flex rounded-full px-2.5 py-1 text-[10px] font-bold uppercase tracking-[0.12em] ${isDark ? "bg-lime text-foreground" : "bg-surface-muted text-copy"}`}>
+          <span className={`inline-flex rounded-full px-2.5 py-1 text-[10px] font-bold uppercase tracking-[0.12em] ${isDark ? "bg-lime text-[#111111] dark:bg-[#07100f]/12" : isAccent ? "bg-[#111111]/8 text-[#111111]" : "bg-surface-muted text-copy"}`}>
             {categoryLabels[entry.category]}
           </span>
           <h2 className="mt-2 truncate font-display text-xl font-bold tracking-tight">{entry.title}</h2>
         </div>
-        <Link href={`/c/${entry.slug}`} onFocus={replay} aria-label={`Open ${entry.title}`} className={`grid size-11 shrink-0 place-items-center rounded-full transition-transform group-hover:rotate-6 ${isDark ? "bg-lime text-foreground" : "bg-foreground text-white"}`}>
-          <ArrowUpRight className="size-4" aria-hidden />
+        <Link href={`/c/${entry.slug}`} onFocus={replay} aria-label={`Open ${entry.title}`} className={`flex size-11 shrink-0 items-center justify-center rounded-full border bg-[#111111] transition-all duration-200 group-hover:rotate-6 dark:border-lime dark:bg-lime ${isDark ? "border-white/25" : "border-transparent"}`}>
+          <ArrowUpRight className="size-5 text-white dark:text-[#111111]" strokeWidth={2} aria-hidden />
         </Link>
       </div>
     </motion.article>
@@ -118,13 +118,13 @@ export function BentoGrid({ entries }: BentoGridProps) {
 
   return (
     <section className="mt-7" aria-label="Pattern library">
-      <div className="sticky top-16 z-30 border-y border-line/80 bg-white/88 backdrop-blur-xl md:top-0">
+      <div className="sticky top-16 z-30 border-y border-line/80 bg-background/88 backdrop-blur-xl transition-colors duration-200 md:top-0">
         <div className="hide-scrollbar mx-auto flex max-w-[1680px] gap-2 overflow-x-auto px-4 py-3 sm:px-7 lg:px-10" aria-label="Filter by category">
-          <button type="button" onClick={() => selectCategory("all")} aria-pressed={activeCategory === "all"} className={`min-h-10 shrink-0 rounded-full px-4 text-xs font-bold transition-colors ${activeCategory === "all" ? "bg-foreground text-white" : "border border-line bg-white text-copy hover:bg-surface-muted"}`}>
+          <button type="button" onClick={() => selectCategory("all")} aria-pressed={activeCategory === "all"} className={`min-h-10 shrink-0 rounded-full px-4 text-xs font-bold transition-colors ${activeCategory === "all" ? "bg-foreground text-background" : "border border-line bg-surface text-copy hover:bg-surface-muted"}`}>
             All · {entries.length}
           </button>
           {categories.map((category) => (
-            <button key={category} type="button" onClick={() => selectCategory(category)} aria-pressed={activeCategory === category} className={`min-h-10 shrink-0 rounded-full px-4 text-xs font-bold transition-colors ${activeCategory === category ? "bg-foreground text-white" : "border border-line bg-white text-copy hover:bg-surface-muted"}`}>
+            <button key={category} type="button" onClick={() => selectCategory(category)} aria-pressed={activeCategory === category} className={`min-h-10 shrink-0 rounded-full px-4 text-xs font-bold transition-colors ${activeCategory === category ? "bg-foreground text-background" : "border border-line bg-surface text-copy hover:bg-surface-muted"}`}>
               {categoryLabels[category]}
             </button>
           ))}
@@ -146,7 +146,7 @@ export function BentoGrid({ entries }: BentoGridProps) {
               whileTap={{ scale: 0.96 }}
               transition={{ type: "spring", stiffness: 400, damping: 24 }}
               onClick={() => setVisibleCount((current) => current + PAGE_SIZE)}
-              className="inline-flex min-h-12 items-center rounded-full bg-foreground px-6 text-sm font-bold text-white shadow-[0_2px_16px_rgba(0,0,0,0.06)] transition-shadow hover:shadow-[0_8px_24px_rgba(0,0,0,0.12)]"
+              className="inline-flex min-h-12 items-center rounded-full bg-foreground px-6 text-sm font-bold text-background shadow-[0_2px_16px_rgba(0,0,0,0.06)] transition-shadow hover:shadow-[0_8px_24px_rgba(0,0,0,0.12)]"
             >
               Load more · {Math.min(PAGE_SIZE, remainingCount)}
             </motion.button>

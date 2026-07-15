@@ -10,7 +10,7 @@ type ComingSoonPageProps = {
 export function ComingSoonPage({ eyebrow, title, description, icon: Icon }: ComingSoonPageProps) {
   return (
     <main className="ambient-shell mx-auto min-h-[calc(100dvh-4rem)] max-w-[1280px] px-4 py-8 sm:px-8 sm:py-12 md:min-h-dvh lg:px-10">
-      <section className="grid min-h-[68vh] place-items-center rounded-[24px] border border-line bg-white p-8 text-center shadow-[0_2px_16px_rgba(0,0,0,0.04)]">
+      <section className="grid min-h-[68vh] place-items-center rounded-[24px] border border-line bg-surface p-8 text-center shadow-[0_2px_16px_rgba(0,0,0,0.04)] transition-colors duration-200">
         <div className="max-w-xl">
           <span className="mx-auto grid size-14 place-items-center rounded-2xl bg-lime/25 text-foreground">
             <Icon className="size-6" strokeWidth={1.7} aria-hidden />

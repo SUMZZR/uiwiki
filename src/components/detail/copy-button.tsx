@@ -17,7 +17,7 @@ export function CopyButton({ copied, onCopy, label = "Copy", inverted = false }:
       onClick={onCopy}
       whileTap={{ scale: 0.92 }}
       transition={{ type: "spring", stiffness: 380, damping: 24 }}
-      className={`inline-flex min-h-11 min-w-24 items-center justify-center gap-2 rounded-full px-4 text-xs font-bold transition-colors ${inverted ? "bg-lime text-foreground hover:bg-lemon" : "bg-foreground text-white hover:bg-foreground/85"}`}
+      className={`inline-flex min-h-11 min-w-24 items-center justify-center gap-2 rounded-full px-4 text-xs font-bold transition-colors ${inverted ? "bg-lime text-[#111111] hover:bg-lemon" : "bg-foreground text-background hover:bg-foreground/85"}`}
       aria-label={copied ? "Copied to clipboard" : label}
     >
       <AnimatePresence mode="wait" initial={false}>

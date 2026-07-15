@@ -4,6 +4,7 @@ import { Inter, Inter_Tight, JetBrains_Mono } from "next/font/google";
 import { Footer } from "@/components/shell/footer";
 import { SearchProvider } from "@/components/search/search-provider";
 import { WikiShell } from "@/components/shell/wiki-shell";
+import { ThemeProvider } from "@/components/theme/theme-provider";
 import { getAllComponents } from "@/lib/content";
 import "./globals.css";
 
@@ -57,15 +58,18 @@ export default async function RootLayout({
   return (
     <html
       lang="en"
+      suppressHydrationWarning
       className={`${inter.variable} ${interTight.variable} ${jetBrainsMono.variable}`}
     >
       <body className="antialiased">
-        <SearchProvider entries={searchEntries}>
-          <WikiShell>
-            {children}
-            <Footer />
-          </WikiShell>
-        </SearchProvider>
+        <ThemeProvider>
+          <SearchProvider entries={searchEntries}>
+            <WikiShell>
+              {children}
+              <Footer />
+            </WikiShell>
+          </SearchProvider>
+        </ThemeProvider>
       </body>
     </html>
   );

@@ -88,7 +88,7 @@ export function SearchProvider({ entries, children }: SearchProviderProps) {
       <AnimatePresence>
         {open && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="fixed inset-0 z-[100] flex items-start justify-center bg-foreground/25 px-4 pt-[10vh] backdrop-blur-sm" onMouseDown={(event) => event.target === event.currentTarget && close()}>
-            <motion.div initial={{ y: -16, opacity: 0, scale: .97 }} animate={{ y: 0, opacity: 1, scale: 1 }} exit={{ y: -8, opacity: 0, scale: .98 }} transition={{ type: "spring", stiffness: 360, damping: 30 }} role="dialog" aria-modal="true" aria-label="Search UI patterns" className="w-full max-w-2xl overflow-hidden rounded-[24px] border border-line bg-white shadow-[0_24px_80px_rgba(0,0,0,0.16)]">
+            <motion.div initial={{ y: -16, opacity: 0, scale: .97 }} animate={{ y: 0, opacity: 1, scale: 1 }} exit={{ y: -8, opacity: 0, scale: .98 }} transition={{ type: "spring", stiffness: 360, damping: 30 }} role="dialog" aria-modal="true" aria-label="Search UI patterns" className="w-full max-w-2xl overflow-hidden rounded-[24px] border border-line bg-surface shadow-[0_24px_80px_rgba(0,0,0,0.32)] transition-colors duration-200">
               <div className="flex items-center gap-3 border-b border-line px-5">
                 <Search className="size-5 text-muted" aria-hidden />
                 <input ref={inputRef} value={query} onChange={(event) => { setQuery(event.target.value); setActiveIndex(0); }} onKeyDown={handleInputKeyDown} placeholder="Search components, tags, categories…" className="h-16 min-w-0 flex-1 border-0 bg-transparent text-base text-foreground outline-none placeholder:text-muted" aria-controls="search-results" aria-activedescendant={results[activeIndex] ? `search-${results[activeIndex].slug}` : undefined} />
@@ -96,7 +96,7 @@ export function SearchProvider({ entries, children }: SearchProviderProps) {
               </div>
               <div id="search-results" role="listbox" className="max-h-[60vh] overflow-y-auto p-2">
                 {results.length > 0 ? results.map((entry, resultIndex) => (
-                  <button id={`search-${entry.slug}`} role="option" aria-selected={activeIndex === resultIndex} key={entry.slug} type="button" onMouseEnter={() => setActiveIndex(resultIndex)} onClick={() => choose(entry)} className={`flex min-h-16 w-full items-center justify-between gap-4 rounded-[18px] px-4 text-left transition-colors ${activeIndex === resultIndex ? "bg-lime" : "hover:bg-surface-muted"}`}>
+                  <button id={`search-${entry.slug}`} role="option" aria-selected={activeIndex === resultIndex} key={entry.slug} type="button" onMouseEnter={() => setActiveIndex(resultIndex)} onClick={() => choose(entry)} className={`flex min-h-16 w-full items-center justify-between gap-4 rounded-[18px] px-4 text-left transition-colors ${activeIndex === resultIndex ? "bg-lime text-[#111111]" : "hover:bg-surface-muted"}`}>
                     <span className="min-w-0">
                       <strong className="block truncate font-display text-base tracking-tight">{entry.title}</strong>
                       <span className="mt-1 block text-xs text-copy">{categoryLabels[entry.category]} · {entry.tags.slice(0, 2).join(" · ")}</span>

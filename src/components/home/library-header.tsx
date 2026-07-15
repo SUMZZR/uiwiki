@@ -15,11 +15,11 @@ export function LibraryHeader({ componentCount, categoryCount }: LibraryHeaderPr
             Pick a starting point.
           </h1>
           <div className="mt-5 flex flex-wrap gap-2">
-            <span className="inline-flex items-center gap-2 rounded-full border border-line bg-white px-3 py-1.5 text-xs font-semibold text-copy">
+            <span className="inline-flex items-center gap-2 rounded-full border border-line bg-surface px-3 py-1.5 text-xs font-semibold text-copy transition-colors duration-200">
               <Boxes className="size-3.5 text-muted" aria-hidden />
               <strong className="font-mono text-foreground">{componentCount}</strong> Components
             </span>
-            <span className="inline-flex items-center gap-2 rounded-full border border-line bg-white px-3 py-1.5 text-xs font-semibold text-copy">
+            <span className="inline-flex items-center gap-2 rounded-full border border-line bg-surface px-3 py-1.5 text-xs font-semibold text-copy transition-colors duration-200">
               <Layers3 className="size-3.5 text-muted" aria-hidden />
               <strong className="font-mono text-foreground">{categoryCount}</strong> Categories
             </span>

@@ -34,7 +34,7 @@ export function Sidebar({ surface, onClose }: SidebarProps) {
 
   return (
     <LayoutGroup id={`site-nav-${surface}`}>
-      <aside className="flex h-full min-h-0 flex-col bg-white" aria-label="Site navigation">
+      <aside className="flex h-full min-h-0 flex-col bg-surface transition-colors duration-200" aria-label="Site navigation">
         <div className={`flex h-[73px] shrink-0 items-center border-b border-line px-5 ${isDrawer ? "justify-between" : "justify-center lg:justify-start"}`}>
           <Link href="/" onClick={onClose} className="inline-flex items-center gap-3 rounded-lg" aria-label="Vibehoarder home">
             <BrandMark />
@@ -84,7 +84,7 @@ export function Sidebar({ surface, onClose }: SidebarProps) {
                           {item.soon ? <span className="rounded-full bg-surface-muted px-2 py-0.5 text-[9px] font-bold uppercase tracking-wider text-muted">Soon</span> : null}
                         </span>
                         {!isDrawer ? (
-                          <span className="pointer-events-none absolute left-[calc(100%+10px)] z-50 hidden whitespace-nowrap rounded-lg bg-foreground px-2.5 py-1.5 text-xs font-semibold text-white shadow-lg group-hover:flex group-focus-visible:flex lg:hidden">
+                          <span className="pointer-events-none absolute left-[calc(100%+10px)] z-50 hidden whitespace-nowrap rounded-lg bg-foreground px-2.5 py-1.5 text-xs font-semibold text-background shadow-lg group-hover:flex group-focus-visible:flex lg:hidden">
                             {item.label}{item.soon ? " · Soon" : ""}
                           </span>
                         ) : null}
@@ -106,10 +106,10 @@ export function Sidebar({ surface, onClose }: SidebarProps) {
           >
             <Search className="size-4 shrink-0" aria-hidden />
             <span className={isDrawer ? "block" : "hidden lg:block"}>Search</span>
-            <span className={`ml-auto items-center gap-0.5 rounded-full border border-line bg-white px-2 py-1 font-mono text-[9px] text-muted ${isDrawer ? "inline-flex" : "hidden lg:inline-flex"}`}>
+            <span className={`ml-auto items-center gap-0.5 rounded-full border border-line bg-surface px-2 py-1 font-mono text-[9px] text-muted ${isDrawer ? "inline-flex" : "hidden lg:inline-flex"}`}>
               <Command className="size-2.5" aria-hidden />K
             </span>
-            {!isDrawer ? <span className="pointer-events-none absolute left-[calc(100%+10px)] z-50 hidden whitespace-nowrap rounded-lg bg-foreground px-2.5 py-1.5 text-xs font-semibold text-white shadow-lg group-hover:flex group-focus-visible:flex lg:hidden">Search · ⌘K</span> : null}
+            {!isDrawer ? <span className="pointer-events-none absolute left-[calc(100%+10px)] z-50 hidden whitespace-nowrap rounded-lg bg-foreground px-2.5 py-1.5 text-xs font-semibold text-background shadow-lg group-hover:flex group-focus-visible:flex lg:hidden">Search · ⌘K</span> : null}
           </button>
           <p className={`mt-6 text-[13px] leading-5 text-muted ${isDrawer ? "block" : "hidden lg:block"}`}>
             Vibehoarder — hoarding every UI pattern worth stealing for your next vibe coding session.
