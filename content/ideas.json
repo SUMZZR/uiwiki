@@ -3398,7 +3398,8 @@
       "title": "Measured Pulse Control",
       "category": "buttons",
       "brief": "Create an original Measured Pulse Control pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "pinned-shortcut-cta",
@@ -3472,7 +3473,8 @@
       "title": "Pinned Release Summary",
       "category": "cards",
       "brief": "Create an original Pinned Release Summary pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "folding-resource-profile",
@@ -3546,7 +3548,8 @@
       "title": "Confidence Route Input",
       "category": "inputs",
       "brief": "Create an original Confidence Route Input pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "segmented-unit-inspector",
@@ -3620,7 +3623,8 @@
       "title": "Focus Track Breadcrumbs",
       "category": "navigation",
       "brief": "Create an original Focus Track Breadcrumbs pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "keyboard-section-dossier",
@@ -3694,7 +3698,8 @@
       "title": "Elastic Module Meter",
       "category": "loaders",
       "brief": "Create an original Elastic Module Meter pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "stacked-signal-relay",
@@ -3768,7 +3773,8 @@
       "title": "Editorial Metric Cascade",
       "category": "text-effects",
       "brief": "Create an original Editorial Metric Cascade pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "tracking-word-dossier",
@@ -3842,7 +3848,8 @@
       "title": "Editorial Signal Field",
       "category": "backgrounds",
       "brief": "Create an original Editorial Signal Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "sparse-route-canvas",
@@ -3916,7 +3923,8 @@
       "title": "Signal Depth Expansion",
       "category": "transitions",
       "brief": "Create an original Signal Depth Expansion pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "modular-marker-reveal",
@@ -3990,7 +3998,8 @@
       "title": "Native Snap Outcome Rail",
       "category": "scroll-effects",
       "brief": "Create an original Native Snap Outcome Rail pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "pinned-context-timeline",
@@ -4064,7 +4073,8 @@
       "title": "Keyboard Context Badge",
       "category": "misc",
       "brief": "Create an original Keyboard Context Badge pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "measured-version-coach",
