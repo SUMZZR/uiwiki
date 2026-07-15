@@ -1,6 +1,6 @@
-# UIWiki
+# Vibehoarder
 
-UIWiki is an AI-first library of interactive UI components and motion patterns. Every entry includes a live preview, a detailed English prompt for Claude/GPT/Cursor/v0, paste-ready React + Tailwind + Framer Motion source, and a CSS-only fallback.
+Vibehoarder is an AI-first library of interactive UI components and motion patterns. Every entry includes a live preview, a detailed English prompt for Claude/GPT/Cursor/v0, paste-ready React + Tailwind + Framer Motion source, and a CSS-only fallback.
 
 The site is built with Next.js 15 App Router and static JSON content. It has no database, CMS, admin panel, or runtime content API.
 

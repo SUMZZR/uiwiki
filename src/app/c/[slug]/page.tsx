@@ -37,7 +37,7 @@ export default async function DetailPage({ params }: DetailPageProps) {
   if (!entry) notFound();
 
   return (
-    <main className="ambient-shell mx-auto min-h-screen max-w-[1440px] px-4 py-8 sm:px-8 sm:py-12">
+    <main className="ambient-shell mx-auto min-h-screen max-w-[1360px] px-4 py-8 sm:px-8 sm:py-12 lg:px-10">
       <Link className="inline-flex min-h-11 items-center gap-2 rounded-full border border-line bg-white px-4 text-sm font-semibold text-copy transition-transform hover:-translate-y-0.5" href="/">
         <ArrowLeft className="size-4" aria-hidden /> All components
       </Link>

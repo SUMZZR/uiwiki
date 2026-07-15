@@ -117,45 +117,41 @@ export function BentoGrid({ entries }: BentoGridProps) {
   };
 
   return (
-    <section className="mt-16" aria-labelledby="library-heading">
-      <div className="flex flex-col gap-5 sm:flex-row sm:items-end sm:justify-between">
-        <div>
-          <p className="text-xs font-bold uppercase tracking-[0.14em] text-muted">Pattern library</p>
-          <h2 id="library-heading" className="mt-2 font-display text-4xl font-bold tracking-tight sm:text-5xl">Pick a starting point.</h2>
-        </div>
-        <p className="max-w-md text-sm leading-6 text-copy">Every preview is live. Hover to replay, then open a pattern for its exact prompt and source.</p>
-      </div>
-
-      <div className="mt-7 flex gap-2 overflow-x-auto pb-3" aria-label="Filter by category">
-        <button type="button" onClick={() => selectCategory("all")} aria-pressed={activeCategory === "all"} className={`min-h-10 shrink-0 rounded-full px-4 text-xs font-bold transition-colors ${activeCategory === "all" ? "bg-foreground text-white" : "border border-line bg-white text-copy hover:bg-surface-muted"}`}>
-          All · {entries.length}
-        </button>
-        {categories.map((category) => (
-          <button key={category} type="button" onClick={() => selectCategory(category)} aria-pressed={activeCategory === category} className={`min-h-10 shrink-0 rounded-full px-4 text-xs font-bold transition-colors ${activeCategory === category ? "bg-foreground text-white" : "border border-line bg-white text-copy hover:bg-surface-muted"}`}>
-            {categoryLabels[category]}
+    <section className="mt-7" aria-label="Pattern library">
+      <div className="sticky top-16 z-30 border-y border-line/80 bg-white/88 backdrop-blur-xl md:top-0">
+        <div className="hide-scrollbar mx-auto flex max-w-[1680px] gap-2 overflow-x-auto px-4 py-3 sm:px-7 lg:px-10" aria-label="Filter by category">
+          <button type="button" onClick={() => selectCategory("all")} aria-pressed={activeCategory === "all"} className={`min-h-10 shrink-0 rounded-full px-4 text-xs font-bold transition-colors ${activeCategory === "all" ? "bg-foreground text-white" : "border border-line bg-white text-copy hover:bg-surface-muted"}`}>
+            All · {entries.length}
           </button>
-        ))}
+          {categories.map((category) => (
+            <button key={category} type="button" onClick={() => selectCategory(category)} aria-pressed={activeCategory === category} className={`min-h-10 shrink-0 rounded-full px-4 text-xs font-bold transition-colors ${activeCategory === category ? "bg-foreground text-white" : "border border-line bg-white text-copy hover:bg-surface-muted"}`}>
+              {categoryLabels[category]}
+            </button>
+          ))}
+        </div>
       </div>
 
-      <motion.div key={activeCategory} variants={gridVariants} initial="hidden" animate="visible" className="mt-2 grid grid-cols-1 gap-3 md:grid-cols-2 xl:grid-cols-3">
-        {visibleEntries.map((entry, index) => <ComponentCard key={entry.slug} entry={entry} index={index} />)}
-      </motion.div>
+      <div className="mx-auto max-w-[1680px] px-4 sm:px-7 lg:px-10">
+        <motion.div key={activeCategory} variants={gridVariants} initial="hidden" animate="visible" className="mt-4 grid grid-cols-[repeat(auto-fit,minmax(min(100%,19rem),1fr))] gap-3">
+          {visibleEntries.map((entry, index) => <ComponentCard key={entry.slug} entry={entry} index={index} />)}
+        </motion.div>
 
-      <div className="mt-8 flex flex-col items-center gap-3" aria-live="polite">
-        <p className="text-xs font-semibold text-muted">
-          Showing {visibleEntries.length} of {filteredEntries.length} patterns
-        </p>
-        {remainingCount > 0 ? (
-          <motion.button
-            type="button"
-            whileTap={{ scale: 0.96 }}
-            transition={{ type: "spring", stiffness: 400, damping: 24 }}
-            onClick={() => setVisibleCount((current) => current + PAGE_SIZE)}
-            className="inline-flex min-h-12 items-center rounded-full bg-foreground px-6 text-sm font-bold text-white shadow-[0_2px_16px_rgba(0,0,0,0.06)] transition-shadow hover:shadow-[0_8px_24px_rgba(0,0,0,0.12)]"
-          >
-            Load more · {Math.min(PAGE_SIZE, remainingCount)}
-          </motion.button>
-        ) : null}
+        <div className="mt-8 flex flex-col items-center gap-3 pb-8" aria-live="polite">
+          <p className="text-xs font-semibold text-muted">
+            Showing {visibleEntries.length} of {filteredEntries.length} patterns
+          </p>
+          {remainingCount > 0 ? (
+            <motion.button
+              type="button"
+              whileTap={{ scale: 0.96 }}
+              transition={{ type: "spring", stiffness: 400, damping: 24 }}
+              onClick={() => setVisibleCount((current) => current + PAGE_SIZE)}
+              className="inline-flex min-h-12 items-center rounded-full bg-foreground px-6 text-sm font-bold text-white shadow-[0_2px_16px_rgba(0,0,0,0.06)] transition-shadow hover:shadow-[0_8px_24px_rgba(0,0,0,0.12)]"
+            >
+              Load more · {Math.min(PAGE_SIZE, remainingCount)}
+            </motion.button>
+          ) : null}
+        </div>
       </div>
     </section>
   );

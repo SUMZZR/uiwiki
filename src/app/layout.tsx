@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import { Inter, Inter_Tight, JetBrains_Mono } from "next/font/google";
 
 import { Footer } from "@/components/shell/footer";
-import { Header } from "@/components/shell/header";
 import { SearchProvider } from "@/components/search/search-provider";
+import { WikiShell } from "@/components/shell/wiki-shell";
 import { getAllComponents } from "@/lib/content";
 import "./globals.css";
 
@@ -28,11 +28,22 @@ const jetBrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL("https://uiwiki.dev"),
   title: {
-    default: "UIWiki — UI patterns for AI coding",
-    template: "%s · UIWiki",
+    default: "Vibehoarder — UI patterns for vibe coding",
+    template: "%s · Vibehoarder",
   },
   description:
     "Browse interactive UI patterns, then copy a production-ready prompt or source code.",
+  openGraph: {
+    title: "Vibehoarder — UI patterns for vibe coding",
+    description: "Live UI patterns with precise AI prompts and paste-ready source.",
+    siteName: "Vibehoarder",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Vibehoarder — UI patterns for vibe coding",
+    description: "Live UI patterns with precise AI prompts and paste-ready source.",
+  },
 };
 
 export default async function RootLayout({
@@ -50,9 +61,10 @@ export default async function RootLayout({
     >
       <body className="antialiased">
         <SearchProvider entries={searchEntries}>
-          <Header />
-          {children}
-          <Footer />
+          <WikiShell>
+            {children}
+            <Footer />
+          </WikiShell>
         </SearchProvider>
       </body>
     </html>
