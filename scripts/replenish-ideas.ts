@@ -9,6 +9,8 @@ const titles: Record<Category, string[]> = {
     "Measured Hold Button", "Twin Track Action", "Radial Count Control", "Inline Handoff Button", "Stacked State CTA",
     "Sliding Intent Button", "Pivot Label Action", "Measured Corner CTA", "Layered Shortcut Trigger", "Focus Relay Button",
     "Elastic Count Capsule", "Pinned Confirm Control", "Orbiting Status Action", "Split Signal Button", "Tension Rail CTA",
+    "Axis Lock Button", "Indexed Commit CTA", "Sliding Proof Action", "Layered Route Trigger", "Measured Pulse Control",
+    "Pinned Shortcut CTA", "Folding Status Button", "Modular Send Control", "Counterweight Action", "Focus Track Button",
   ],
   cards: [
     "Layer Lens Data Card", "Folded Timeline Card", "Signal Stack Card", "Expandable Quote Dossier", "Pinned Comparison Card",
@@ -17,6 +19,8 @@ const titles: Record<Category, string[]> = {
     "Modular Audit Summary", "Folded Resource Card", "Focus Rail Profile", "Measured Outcome Card", "Stacked Release Dossier",
     "Layered Research Card", "Pivot Insight Summary", "Measured Profile Dossier", "Sliding Evidence Panel", "Pinned Outcome Brief",
     "Modular Release Card", "Folded Audit Panel", "Focus Window Summary", "Offset Resource Dossier", "Stacked Signal Profile",
+    "Indexed Evidence Card", "Sliding Metric Dossier", "Layered Decision Brief", "Measured Team Panel", "Pinned Release Summary",
+    "Folding Resource Profile", "Modular Outcome Card", "Focus Track Dossier", "Offset Audit Summary", "Stacked Context Panel",
   ],
   inputs: [
     "Inline Token Search", "Confidence Meter Field", "Expandable Command Composer", "Stepped Quantity Scrubber", "Context Hint Input",
@@ -25,6 +29,8 @@ const titles: Record<Category, string[]> = {
     "Token Relay Composer", "Context Aware Number Field", "Segmented Address Input", "Confidence Path Editor", "Keyboard Color Inspector",
     "Measured Token Editor", "Layered Time Composer", "Accessible Position Matrix", "Expandable Rule Builder", "Context Search Inspector",
     "Keyboard Range Composer", "Segmented Metric Field", "Confidence Note Editor", "Inline Date Resolver", "Focus Aware URL Field",
+    "Indexed Search Composer", "Measured Duration Field", "Layered Token Resolver", "Keyboard Ratio Editor", "Confidence Route Input",
+    "Segmented Unit Inspector", "Inline Constraint Builder", "Focus Aware Command Field", "Accessible Scale Composer", "Modular Query Editor",
   ],
   navigation: [
     "Orbit Section Navigator", "Stacked Breadcrumb Rail", "Focus Lens Tab Bar", "Expandable Map Legend", "Reading Chapter Dock",
@@ -33,6 +39,8 @@ const titles: Record<Category, string[]> = {
     "Keyboard Map Navigator", "Offset Page Index", "Focus Trail Breadcrumbs", "Modular Workspace Menu", "Adaptive Reading Compass",
     "Layered Section Dock", "Measured Route Tabs", "Expandable Workspace Index", "Pinned Reading Rail", "Context Page Compass",
     "Keyboard Chapter Map", "Offset Navigation Dossier", "Focus Path Menu", "Modular Breadcrumb Strip", "Adaptive Project Switcher",
+    "Indexed Workspace Rail", "Layered Chapter Switcher", "Measured Context Tabs", "Pinned Route Menu", "Focus Track Breadcrumbs",
+    "Keyboard Section Dossier", "Modular Page Compass", "Offset Project Dock", "Adaptive Reading Strip", "Expandable Signal Navigator",
   ],
   loaders: [
     "Ribbon Fold Loader", "Signal Relay Loader", "Nested Ring Counter", "Pathfinder Dot Loader", "Elastic Type Loader",
@@ -41,6 +49,8 @@ const titles: Record<Category, string[]> = {
     "Signal Ladder Progress", "Elastic Index Loader", "Ribbon Node Counter", "Orbiting Step Indicator", "Stacked Pulse Meter",
     "Measured Packet Relay", "Folding Signal Meter", "Nested Step Scanner", "Offset Ribbon Loader", "Elastic Dot Ladder",
     "Segment Orbit Progress", "Stacked Node Counter", "Path Relay Indicator", "Breathing Tile Meter", "Measured Index Scanner",
+    "Indexed Ribbon Progress", "Layered Step Counter", "Measured Pulse Scanner", "Folding Route Loader", "Elastic Module Meter",
+    "Stacked Signal Relay", "Breathing Index Counter", "Offset Node Scanner", "Segmented Path Loader", "Orbiting Tile Progress",
   ],
   "text-effects": [
     "Baseline Relay Headline", "Bracket Reveal Title", "Variable Width Sentence", "Counterweight Word Swap", "Editorial Index Reveal",
@@ -49,6 +59,8 @@ const titles: Record<Category, string[]> = {
     "Tracking Shift Headline", "Layered Number Sentence", "Margin Rail Quote", "Counterbalanced Title", "Modular Glyph Sequence",
     "Measured Caption Cascade", "Layered Weight Headline", "Split Index Sentence", "Editorial Route Quote", "Tracking Number Relay",
     "Bracketed Word Sequence", "Margin Axis Statement", "Counterweight Metric Title", "Modular Letter Reveal", "Baseline Signal Caption",
+    "Indexed Phrase Relay", "Layered Number Caption", "Measured Axis Headline", "Bracketed Signal Title", "Editorial Metric Cascade",
+    "Tracking Word Dossier", "Margin Route Sentence", "Counterweight Glyph Reveal", "Modular Baseline Quote", "Split Folio Statement",
   ],
   backgrounds: [
     "Measured Dot Atlas", "Offset Ruler Canvas", "Modular Contour Field", "Focus Ring Blueprint", "Sparse Label Matrix",
@@ -57,6 +69,8 @@ const titles: Record<Category, string[]> = {
     "Layered Index Field", "Editorial Tick Atlas", "Connected Module Grid", "Focus Path Canvas", "Registration Dot Landscape",
     "Measured Signal Field", "Layered Paper Atlas", "Offset Route Matrix", "Quiet Arc Blueprint", "Connected Index Canvas",
     "Editorial Module Field", "Focus Dot Landscape", "Sparse Baseline Atlas", "Registration Path Grid", "Modular Tick Topography",
+    "Indexed Arc Landscape", "Layered Coordinate Atlas", "Measured Module Blueprint", "Quiet Path Matrix", "Editorial Signal Field",
+    "Sparse Route Canvas", "Registration Axis Topography", "Focus Tick Blueprint", "Offset Dot Dossier", "Connected Baseline Field",
   ],
   transitions: [
     "Corner Fold Route Transition", "Panel Relay Transition", "Index Card Route Swap", "Measured Curtain Transition", "Shared Token Handoff",
@@ -65,6 +79,8 @@ const titles: Record<Category, string[]> = {
     "Modular Canvas Swap", "Folded Depth Change", "Index Rail Crossfade", "Focus Token Expansion", "Counterweight Route Reveal",
     "Layered Iris Handoff", "Measured Panel Swap", "Offset Canvas Expansion", "Pinned Token Reveal", "Signal Sheet Crossfade",
     "Modular Depth Wipe", "Folded Route Relay", "Index Marker Transition", "Focus Rail Expansion", "Counterbalanced Canvas Change",
+    "Indexed Sheet Handoff", "Layered Focus Wipe", "Measured Route Fold", "Pinned Canvas Relay", "Signal Depth Expansion",
+    "Modular Marker Reveal", "Offset Token Crossfade", "Counterweight Panel Swap", "Folding Index Transition", "Registration Rail Change",
   ],
   "scroll-effects": [
     "Sticky Metric Relay", "Scroll Framed Case Study", "Chapter Rail Reveal", "Depth Caption Sequence", "Measured Story Progress",
@@ -73,6 +89,8 @@ const titles: Record<Category, string[]> = {
     "Pinned Signal Timeline", "Reading Axis Sequence", "Scroll Framed Blueprint", "Depth Marker Chapters", "Sticky Outcome Comparator",
     "Measured Story Ladder", "Pinned Annotation Timeline", "Scroll Linked Signal Deck", "Viewport Outcome Rail", "Native Snap Dossier",
     "Reading Metric Canvas", "Sticky Chapter Comparator", "Depth Index Sequence", "Scroll Framed Outcome", "Viewport Route Timeline",
+    "Indexed Story Canvas", "Sticky Signal Dossier", "Reading Route Comparator", "Viewport Metric Sequence", "Native Snap Outcome Rail",
+    "Pinned Context Timeline", "Depth Chapter Blueprint", "Scroll Framed Evidence", "Measured Viewport Ladder", "Reading Index Journey",
   ],
   misc: [
     "Compact Permission Prompt", "Presence Trail Badge", "Inline Retry Notice", "Expandable Status Capsule", "Selection Count Toolbar",
@@ -81,6 +99,8 @@ const titles: Record<Category, string[]> = {
     "Selection Summary Badge", "Expandable Audit Notice", "Keyboard Focus Coach", "Presence Conflict Resolver", "Measured Toast Queue",
     "Inline Activity Resolver", "Compact Selection Ledger", "Accessible Export Inspector", "Floating Focus Guide", "Queued Version Capsule",
     "Presence Summary Badge", "Expandable Shortcut Notice", "Keyboard Status Coach", "Measured Conflict Resolver", "Layered Toast Queue",
+    "Indexed Activity Notice", "Compact Route Inspector", "Accessible Queue Summary", "Floating Status Resolver", "Keyboard Context Badge",
+    "Measured Version Coach", "Layered Permission Capsule", "Presence Signal Ledger", "Expandable Retry Guide", "Selection Audit Toolbar",
   ],
 };
 
