@@ -3406,7 +3406,8 @@
       "title": "Pinned Shortcut CTA",
       "category": "buttons",
       "brief": "Create an original Pinned Shortcut CTA pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "folding-status-button",
@@ -3481,7 +3482,8 @@
       "title": "Folding Resource Profile",
       "category": "cards",
       "brief": "Create an original Folding Resource Profile pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "modular-outcome-card",
@@ -3556,7 +3558,8 @@
       "title": "Segmented Unit Inspector",
       "category": "inputs",
       "brief": "Create an original Segmented Unit Inspector pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "inline-constraint-builder",
@@ -3631,7 +3634,8 @@
       "title": "Keyboard Section Dossier",
       "category": "navigation",
       "brief": "Create an original Keyboard Section Dossier pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "modular-page-compass",
@@ -3706,7 +3710,8 @@
       "title": "Stacked Signal Relay",
       "category": "loaders",
       "brief": "Create an original Stacked Signal Relay pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "breathing-index-counter",
@@ -3781,7 +3786,8 @@
       "title": "Tracking Word Dossier",
       "category": "text-effects",
       "brief": "Create an original Tracking Word Dossier pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "margin-route-sentence",
@@ -3856,7 +3862,8 @@
       "title": "Sparse Route Canvas",
       "category": "backgrounds",
       "brief": "Create an original Sparse Route Canvas pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "registration-axis-topography",
@@ -3931,7 +3938,8 @@
       "title": "Modular Marker Reveal",
       "category": "transitions",
       "brief": "Create an original Modular Marker Reveal pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "offset-token-crossfade",
@@ -4006,7 +4014,8 @@
       "title": "Pinned Context Timeline",
       "category": "scroll-effects",
       "brief": "Create an original Pinned Context Timeline pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "depth-chapter-blueprint",
@@ -4081,7 +4090,8 @@
       "title": "Measured Version Coach",
       "category": "misc",
       "brief": "Create an original Measured Version Coach pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-14T13:30:00.000Z"
     },
     {
       "id": "layered-permission-capsule",
