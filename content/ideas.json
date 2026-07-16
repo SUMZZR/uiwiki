@@ -3430,7 +3430,8 @@
       "title": "Counterweight Action",
       "category": "buttons",
       "brief": "Create an original Counterweight Action pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-16T12:00:00.000Z"
     },
     {
       "id": "focus-track-button",
@@ -3508,7 +3509,8 @@
       "title": "Offset Audit Summary",
       "category": "cards",
       "brief": "Create an original Offset Audit Summary pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-16T12:00:00.000Z"
     },
     {
       "id": "stacked-context-panel",
@@ -3586,7 +3588,8 @@
       "title": "Accessible Scale Composer",
       "category": "inputs",
       "brief": "Create an original Accessible Scale Composer pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-16T12:00:00.000Z"
     },
     {
       "id": "modular-query-editor",
@@ -3664,7 +3667,8 @@
       "title": "Adaptive Reading Strip",
       "category": "navigation",
       "brief": "Create an original Adaptive Reading Strip pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-16T12:00:00.000Z"
     },
     {
       "id": "expandable-signal-navigator",
@@ -3742,7 +3746,8 @@
       "title": "Segmented Path Loader",
       "category": "loaders",
       "brief": "Create an original Segmented Path Loader pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-16T12:00:00.000Z"
     },
     {
       "id": "orbiting-tile-progress",
@@ -3820,7 +3825,8 @@
       "title": "Modular Baseline Quote",
       "category": "text-effects",
       "brief": "Create an original Modular Baseline Quote pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-16T12:00:00.000Z"
     },
     {
       "id": "split-folio-statement",
@@ -3898,7 +3904,8 @@
       "title": "Offset Dot Dossier",
       "category": "backgrounds",
       "brief": "Create an original Offset Dot Dossier pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-16T12:00:00.000Z"
     },
     {
       "id": "connected-baseline-field",
@@ -3976,7 +3983,8 @@
       "title": "Folding Index Transition",
       "category": "transitions",
       "brief": "Create an original Folding Index Transition pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-16T12:00:00.000Z"
     },
     {
       "id": "registration-rail-change",
@@ -4054,7 +4062,8 @@
       "title": "Measured Viewport Ladder",
       "category": "scroll-effects",
       "brief": "Create an original Measured Viewport Ladder pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-16T12:00:00.000Z"
     },
     {
       "id": "reading-index-journey",
@@ -4139,7 +4148,8 @@
       "title": "Selection Audit Toolbar",
       "category": "misc",
       "brief": "Create an original Selection Audit Toolbar pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-16T12:00:00.000Z"
     }
   ]
 }
