@@ -3438,7 +3438,8 @@
       "title": "Focus Track Button",
       "category": "buttons",
       "brief": "Create an original Focus Track Button pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-17T13:49:09.000Z"
     },
     {
       "id": "indexed-evidence-card",
@@ -3517,7 +3518,8 @@
       "title": "Stacked Context Panel",
       "category": "cards",
       "brief": "Create an original Stacked Context Panel pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-17T13:49:09.000Z"
     },
     {
       "id": "indexed-search-composer",
@@ -3596,7 +3598,8 @@
       "title": "Modular Query Editor",
       "category": "inputs",
       "brief": "Create an original Modular Query Editor pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-17T13:49:09.000Z"
     },
     {
       "id": "indexed-workspace-rail",
@@ -3675,7 +3678,8 @@
       "title": "Expandable Signal Navigator",
       "category": "navigation",
       "brief": "Create an original Expandable Signal Navigator pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-17T13:49:09.000Z"
     },
     {
       "id": "indexed-ribbon-progress",
@@ -3754,7 +3758,8 @@
       "title": "Orbiting Tile Progress",
       "category": "loaders",
       "brief": "Create an original Orbiting Tile Progress pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-17T13:49:09.000Z"
     },
     {
       "id": "indexed-phrase-relay",
@@ -3833,7 +3838,8 @@
       "title": "Split Folio Statement",
       "category": "text-effects",
       "brief": "Create an original Split Folio Statement pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-17T13:49:09.000Z"
     },
     {
       "id": "indexed-arc-landscape",
@@ -3912,7 +3918,8 @@
       "title": "Connected Baseline Field",
       "category": "backgrounds",
       "brief": "Create an original Connected Baseline Field pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-17T13:49:09.000Z"
     },
     {
       "id": "indexed-sheet-handoff",
@@ -3991,7 +3998,8 @@
       "title": "Registration Rail Change",
       "category": "transitions",
       "brief": "Create an original Registration Rail Change pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-17T13:49:09.000Z"
     },
     {
       "id": "indexed-story-canvas",
@@ -4070,7 +4078,8 @@
       "title": "Reading Index Journey",
       "category": "scroll-effects",
       "brief": "Create an original Reading Index Journey pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "usedAt": "2026-07-17T13:49:09.000Z",
+      "status": "used"
     },
     {
       "id": "indexed-activity-notice",
@@ -4141,7 +4150,8 @@
       "title": "Expandable Retry Guide",
       "category": "misc",
       "brief": "Create an original Expandable Retry Guide pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
-      "status": "available"
+      "status": "used",
+      "usedAt": "2026-07-17T13:49:09.000Z"
     },
     {
       "id": "selection-audit-toolbar",
