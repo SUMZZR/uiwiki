@@ -4160,6 +4160,86 @@
       "brief": "Create an original Selection Audit Toolbar pattern with a distinctive interaction model, precise duration or spring parameters, a light Bento-compatible composition, responsive behavior, keyboard support, and a reduced-motion state.",
       "status": "used",
       "usedAt": "2026-07-16T12:00:00.000Z"
+    },
+    {
+      "id": "anchor-mark-button",
+      "title": "Anchor Mark Button",
+      "category": "buttons",
+      "brief": "Create an original anchored review-mark button with a stable saved state, clear keyboard support, precise spring motion, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-18T12:00:00.000Z"
+    },
+    {
+      "id": "decision-density-card",
+      "title": "Decision Density Card",
+      "category": "cards",
+      "brief": "Create an original evidence-density card with selectable rationales, accessible state changes, precise motion, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-18T12:00:00.000Z"
+    },
+    {
+      "id": "rhythm-time-composer",
+      "title": "Rhythm Time Composer",
+      "category": "inputs",
+      "brief": "Create an original time composer with selectable rhythm presets, native input support, precise motion, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-18T12:00:00.000Z"
+    },
+    {
+      "id": "waypoint-rail-navigator",
+      "title": "Waypoint Rail Navigator",
+      "category": "navigation",
+      "brief": "Create an original waypoint rail navigator with clear route selection, keyboard support, precise spring motion, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-18T12:00:00.000Z"
+    },
+    {
+      "id": "beacon-cell-loader",
+      "title": "Beacon Cell Loader",
+      "category": "loaders",
+      "brief": "Create an original staged cell loader with user-controlled progress, visible status text, precise motion, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-18T12:00:00.000Z"
+    },
+    {
+      "id": "margin-index-reveal",
+      "title": "Margin Index Reveal",
+      "category": "text-effects",
+      "brief": "Create an original editorial margin-index text reveal with selectable emphasis, keyboard support, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-18T12:00:00.000Z"
+    },
+    {
+      "id": "pinpoint-ledger-field",
+      "title": "Pinpoint Ledger Field",
+      "category": "backgrounds",
+      "brief": "Create an original pinpoint ledger background field with labelled coordinates, accessible state text, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-18T12:00:00.000Z"
+    },
+    {
+      "id": "corner-ledger-shift",
+      "title": "Corner Ledger Shift",
+      "category": "transitions",
+      "brief": "Create an original corner-ledger content transition with persistent readable modes, precise springs, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-18T12:00:00.000Z"
+    },
+    {
+      "id": "reading-pulse-columns",
+      "title": "Reading Pulse Columns",
+      "category": "scroll-effects",
+      "brief": "Create an original native-scroll reading pulse with labelled current columns, reduced-motion support, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-18T12:00:00.000Z"
+    },
+    {
+      "id": "handoff-clarity-notice",
+      "title": "Handoff Clarity Notice",
+      "category": "misc",
+      "brief": "Create an original handoff status notice with disclosure checks, keyboard support, clear state text, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-18T12:00:00.000Z"
     }
   ]
 }
