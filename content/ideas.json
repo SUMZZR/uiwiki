@@ -4240,6 +4240,86 @@
       "brief": "Create an original handoff status notice with disclosure checks, keyboard support, clear state text, and a light Bento composition.",
       "status": "used",
       "usedAt": "2026-07-18T12:00:00.000Z"
+    },
+    {
+      "id": "caliper-commit-button",
+      "title": "Caliper Commit Button",
+      "category": "buttons",
+      "brief": "Create an original caliper commit button with deliberate confirmation, accessible pressed state, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-19T12:00:00.000Z"
+    },
+    {
+      "id": "evidence-thread-card",
+      "title": "Evidence Thread Card",
+      "category": "cards",
+      "brief": "Create an original evidence thread card with selectable research notes, keyboard support, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-19T12:00:00.000Z"
+    },
+    {
+      "id": "range-intent-composer",
+      "title": "Range Intent Composer",
+      "category": "inputs",
+      "brief": "Create an original range intent composer with native slider semantics, descriptive stops, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-19T12:00:00.000Z"
+    },
+    {
+      "id": "chapter-stamp-nav",
+      "title": "Chapter Stamp Navigation",
+      "category": "navigation",
+      "brief": "Create an original chapter stamp navigation with accessible tabs, directional keyboard controls, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-19T12:00:00.000Z"
+    },
+    {
+      "id": "coordinate-scan-loader",
+      "title": "Coordinate Scan Loader",
+      "category": "loaders",
+      "brief": "Create an original coordinate scan loader with deterministic checkpoint progress, accessible status text, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-19T12:00:00.000Z"
+    },
+    {
+      "id": "baseline-shift-caption",
+      "title": "Baseline Shift Caption",
+      "category": "text-effects",
+      "brief": "Create an original baseline shift caption with selectable editorial clauses, keyboard support, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-19T12:00:00.000Z"
+    },
+    {
+      "id": "drafting-orbit-field",
+      "title": "Drafting Orbit Field",
+      "category": "backgrounds",
+      "brief": "Create an original drafting orbit background field with a selectable locator, accessible state text, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-19T12:00:00.000Z"
+    },
+    {
+      "id": "edge-note-transition",
+      "title": "Edge Note Transition",
+      "category": "transitions",
+      "brief": "Create an original edge note transition with readable draft and reviewed states, precise spring motion, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-19T12:00:00.000Z"
+    },
+    {
+      "id": "scroll-witness-rail",
+      "title": "Scroll Witness Rail",
+      "category": "scroll-effects",
+      "brief": "Create an original scroll witness rail with keyboard reading controls, labelled progress, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-19T12:00:00.000Z"
+    },
+    {
+      "id": "approval-trail-chip",
+      "title": "Approval Trail Chip",
+      "category": "misc",
+      "brief": "Create an original approval trail chip with deterministic stages, accessible status text, and a light Bento composition.",
+      "status": "used",
+      "usedAt": "2026-07-19T12:00:00.000Z"
     }
   ]
 }
