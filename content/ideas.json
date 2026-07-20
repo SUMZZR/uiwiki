@@ -4320,6 +4320,16 @@
       "brief": "Create an original approval trail chip with deterministic stages, accessible status text, and a light Bento composition.",
       "status": "used",
       "usedAt": "2026-07-19T12:00:00.000Z"
-    }
+    },
+    {"id":"beacon-signal-button","title":"Beacon Signal Button","category":"buttons","brief":"Original confirmation action with a readable beacon acknowledgement.","status":"used","usedAt":"2026-07-20T06:01:18.000Z"},
+    {"id":"route-snapshot-card","title":"Route Snapshot Card","category":"cards","brief":"Original delivery route card with an inline checkpoint snapshot.","status":"used","usedAt":"2026-07-20T06:01:18.000Z"},
+    {"id":"interval-nudge-field","title":"Interval Nudge Field","category":"inputs","brief":"Original accessible five-minute interval stepper field.","status":"used","usedAt":"2026-07-20T06:01:18.000Z"},
+    {"id":"compass-step-rail","title":"Compass Step Rail","category":"navigation","brief":"Original keyboard-operable project phase rail.","status":"used","usedAt":"2026-07-20T06:01:18.000Z"},
+    {"id":"cadence-packet-loader","title":"Cadence Packet Loader","category":"loaders","brief":"Original measured packet transport loader with text progress.","status":"used","usedAt":"2026-07-20T06:01:18.000Z"},
+    {"id":"offset-phrase-reveal","title":"Offset Phrase Reveal","category":"text-effects","brief":"Original editorial phrase sequence with a controlled reveal.","status":"used","usedAt":"2026-07-20T06:01:18.000Z"},
+    {"id":"blueprint-signal-canvas","title":"Blueprint Signal Canvas","category":"backgrounds","brief":"Original selectable signal-grid background canvas.","status":"used","usedAt":"2026-07-20T06:01:18.000Z"},
+    {"id":"ledger-panel-turn","title":"Ledger Panel Turn","category":"transitions","brief":"Original summary-to-ledger panel turn transition.","status":"used","usedAt":"2026-07-20T06:01:18.000Z"},
+    {"id":"chapter-marker-rail","title":"Chapter Marker Rail","category":"scroll-effects","brief":"Original internal reading scroll rail with chapter tracking.","status":"used","usedAt":"2026-07-20T06:01:18.000Z"},
+    {"id":"decision-pulse-toggle","title":"Decision Pulse Toggle","category":"misc","brief":"Original decision readiness toggle with a textual status state.","status":"used","usedAt":"2026-07-20T06:01:18.000Z"}
   ]
 }
