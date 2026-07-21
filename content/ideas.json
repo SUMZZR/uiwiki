@@ -4330,6 +4330,16 @@
     {"id":"blueprint-signal-canvas","title":"Blueprint Signal Canvas","category":"backgrounds","brief":"Original selectable signal-grid background canvas.","status":"used","usedAt":"2026-07-20T06:01:18.000Z"},
     {"id":"ledger-panel-turn","title":"Ledger Panel Turn","category":"transitions","brief":"Original summary-to-ledger panel turn transition.","status":"used","usedAt":"2026-07-20T06:01:18.000Z"},
     {"id":"chapter-marker-rail","title":"Chapter Marker Rail","category":"scroll-effects","brief":"Original internal reading scroll rail with chapter tracking.","status":"used","usedAt":"2026-07-20T06:01:18.000Z"},
-    {"id":"decision-pulse-toggle","title":"Decision Pulse Toggle","category":"misc","brief":"Original decision readiness toggle with a textual status state.","status":"used","usedAt":"2026-07-20T06:01:18.000Z"}
+    {"id":"decision-pulse-toggle","title":"Decision Pulse Toggle","category":"misc","brief":"Original decision readiness toggle with a textual status state.","status":"used","usedAt":"2026-07-20T06:01:18.000Z"},
+    {"id":"latchline-commit-button","title":"Latchline Commit Button","category":"buttons","brief":"Original commit action with a travelling latch and reversible acknowledgement.","status":"used","usedAt":"2026-07-21T06:00:00.000Z"},
+    {"id":"evidence-weave-card","title":"Evidence Weave Card","category":"cards","brief":"Original evidence selection card with a concise rationale footer.","status":"used","usedAt":"2026-07-21T06:00:00.000Z"},
+    {"id":"priority-pulse-field","title":"Priority Pulse Field","category":"inputs","brief":"Original labelled priority field with readable selected state.","status":"used","usedAt":"2026-07-21T06:00:00.000Z"},
+    {"id":"milestone-lens-navigator","title":"Milestone Lens Navigator","category":"navigation","brief":"Original keyboard-operable milestone lens with status panels.","status":"used","usedAt":"2026-07-21T06:00:00.000Z"},
+    {"id":"relay-ledger-loader","title":"Relay Ledger Loader","category":"loaders","brief":"Original export ledger loader with accessible checkpoint status.","status":"used","usedAt":"2026-07-21T06:00:00.000Z"},
+    {"id":"token-weight-chorus","title":"Token Weight Chorus","category":"text-effects","brief":"Original selectable editorial emphasis effect with explicit text state.","status":"used","usedAt":"2026-07-21T06:00:00.000Z"},
+    {"id":"margin-signal-field","title":"Margin Signal Field","category":"backgrounds","brief":"Original selectable locator background with readable state text.","status":"used","usedAt":"2026-07-21T06:00:00.000Z"},
+    {"id":"bookmark-slice-transition","title":"Bookmark Slice Transition","category":"transitions","brief":"Original summary and saved-note transition with a reversible bookmark slice.","status":"used","usedAt":"2026-07-21T06:00:00.000Z"},
+    {"id":"reading-aperture-rail","title":"Reading Aperture Rail","category":"scroll-effects","brief":"Original internal reading rail with aperture-style section tracking.","status":"used","usedAt":"2026-07-21T06:00:00.000Z"},
+    {"id":"handoff-checkpoint-chip","title":"Handoff Checkpoint Chip","category":"misc","brief":"Original reversible handoff acknowledgement chip with text status.","status":"used","usedAt":"2026-07-21T06:00:00.000Z"}
   ]
 }
