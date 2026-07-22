@@ -4340,6 +4340,16 @@
     {"id":"margin-signal-field","title":"Margin Signal Field","category":"backgrounds","brief":"Original selectable locator background with readable state text.","status":"used","usedAt":"2026-07-21T06:00:00.000Z"},
     {"id":"bookmark-slice-transition","title":"Bookmark Slice Transition","category":"transitions","brief":"Original summary and saved-note transition with a reversible bookmark slice.","status":"used","usedAt":"2026-07-21T06:00:00.000Z"},
     {"id":"reading-aperture-rail","title":"Reading Aperture Rail","category":"scroll-effects","brief":"Original internal reading rail with aperture-style section tracking.","status":"used","usedAt":"2026-07-21T06:00:00.000Z"},
-    {"id":"handoff-checkpoint-chip","title":"Handoff Checkpoint Chip","category":"misc","brief":"Original reversible handoff acknowledgement chip with text status.","status":"used","usedAt":"2026-07-21T06:00:00.000Z"}
+    {"id":"handoff-checkpoint-chip","title":"Handoff Checkpoint Chip","category":"misc","brief":"Original reversible handoff acknowledgement chip with text status.","status":"used","usedAt":"2026-07-21T06:00:00.000Z"},
+    {"id":"notch-release-button","title":"Notch Release Button","category":"buttons","brief":"Original release control with a reversible travelling notch acknowledgement.","status":"used","usedAt":"2026-07-22T06:00:00.000Z"},
+    {"id":"decision-crease-card","title":"Decision Crease Card","category":"cards","brief":"Original decision summary card that unfolds its concise rationale.","status":"used","usedAt":"2026-07-22T06:00:00.000Z"},
+    {"id":"evidence-scope-field","title":"Evidence Scope Field","category":"inputs","brief":"Original accessible scope selector with a readable evidence count.","status":"used","usedAt":"2026-07-22T06:00:00.000Z"},
+    {"id":"signal-compass-tabs","title":"Signal Compass Tabs","category":"navigation","brief":"Original keyboard-operable compass tabs with concise decision panels.","status":"used","usedAt":"2026-07-22T06:00:00.000Z"},
+    {"id":"parcel-gate-loader","title":"Parcel Gate Loader","category":"loaders","brief":"Original deterministic parcel loader with readable export gates.","status":"used","usedAt":"2026-07-22T06:00:00.000Z"},
+    {"id":"citation-scanline","title":"Citation Scanline","category":"text-effects","brief":"Original selectable editorial citation effect with an explicit source note.","status":"used","usedAt":"2026-07-22T06:00:00.000Z"},
+    {"id":"ledger-arc-field","title":"Ledger Arc Field","category":"backgrounds","brief":"Original selectable locator field over quiet ledger arcs.","status":"used","usedAt":"2026-07-22T06:00:00.000Z"},
+    {"id":"margin-note-shift","title":"Margin Note Shift","category":"transitions","brief":"Original draft-to-review transition with a reversible margin note.","status":"used","usedAt":"2026-07-22T06:00:00.000Z"},
+    {"id":"outline-pulse-rail","title":"Outline Pulse Rail","category":"scroll-effects","brief":"Original embedded reading rail with keyboard chapter tracking.","status":"used","usedAt":"2026-07-22T06:00:00.000Z"},
+    {"id":"consent-window-chip","title":"Consent Window Chip","category":"misc","brief":"Original temporary sharing chip with explicit reversible status.","status":"used","usedAt":"2026-07-22T06:00:00.000Z"}
   ]
 }
