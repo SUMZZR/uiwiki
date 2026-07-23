@@ -4350,6 +4350,16 @@
     {"id":"ledger-arc-field","title":"Ledger Arc Field","category":"backgrounds","brief":"Original selectable locator field over quiet ledger arcs.","status":"used","usedAt":"2026-07-22T06:00:00.000Z"},
     {"id":"margin-note-shift","title":"Margin Note Shift","category":"transitions","brief":"Original draft-to-review transition with a reversible margin note.","status":"used","usedAt":"2026-07-22T06:00:00.000Z"},
     {"id":"outline-pulse-rail","title":"Outline Pulse Rail","category":"scroll-effects","brief":"Original embedded reading rail with keyboard chapter tracking.","status":"used","usedAt":"2026-07-22T06:00:00.000Z"},
-    {"id":"consent-window-chip","title":"Consent Window Chip","category":"misc","brief":"Original temporary sharing chip with explicit reversible status.","status":"used","usedAt":"2026-07-22T06:00:00.000Z"}
+    {"id":"consent-window-chip","title":"Consent Window Chip","category":"misc","brief":"Original temporary sharing chip with explicit reversible status.","status":"used","usedAt":"2026-07-22T06:00:00.000Z"},
+    {"id":"tether-confirm-button","title":"Tether Confirm Button","category":"buttons","brief":"Original reversible handoff confirmation with a visual tether and explicit acknowledgement.","status":"used","usedAt":"2026-07-23T06:00:00.000Z"},
+    {"id":"signal-ledger-card","title":"Signal Ledger Card","category":"cards","brief":"Original decision signal card with a concise expandable evidence ledger.","status":"used","usedAt":"2026-07-23T06:00:00.000Z"},
+    {"id":"margin-budget-field","title":"Margin Budget Field","category":"inputs","brief":"Original accessible margin stepper with a readable visual measure.","status":"used","usedAt":"2026-07-23T06:00:00.000Z"},
+    {"id":"route-marker-tabs","title":"Route Marker Tabs","category":"navigation","brief":"Original keyboard-operable route phase tabs with a moving marker.","status":"used","usedAt":"2026-07-23T06:00:00.000Z"},
+    {"id":"aperture-dot-loader","title":"Aperture Dot Loader","category":"loaders","brief":"Original deterministic review checkpoint loader with explicit textual progress.","status":"used","usedAt":"2026-07-23T06:00:00.000Z"},
+    {"id":"staggered-quote-emphasis","title":"Staggered Quote Emphasis","category":"text-effects","brief":"Original selectable editorial clause emphasis with a readable selection state.","status":"used","usedAt":"2026-07-23T06:00:00.000Z"},
+    {"id":"ledger-dot-mesh","title":"Ledger Dot Mesh","category":"backgrounds","brief":"Original selectable locator background over a quiet dotted ledger field.","status":"used","usedAt":"2026-07-23T06:00:00.000Z"},
+    {"id":"sidecar-panel-shift","title":"Sidecar Panel Shift","category":"transitions","brief":"Original reversible draft and reviewed panel transition with a directional sidecar.","status":"used","usedAt":"2026-07-23T06:00:00.000Z"},
+    {"id":"waypoint-progress-spine","title":"Waypoint Progress Spine","category":"scroll-effects","brief":"Original embedded reading waypoint control with explicit local progress.","status":"used","usedAt":"2026-07-23T06:00:00.000Z"},
+    {"id":"focus-mode-switch","title":"Focus Mode Switch","category":"misc","brief":"Original accessible workspace preference switch with explicit mode descriptions.","status":"used","usedAt":"2026-07-23T06:00:00.000Z"}
   ]
 }
