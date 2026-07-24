@@ -4360,6 +4360,16 @@
     {"id":"ledger-dot-mesh","title":"Ledger Dot Mesh","category":"backgrounds","brief":"Original selectable locator background over a quiet dotted ledger field.","status":"used","usedAt":"2026-07-23T06:00:00.000Z"},
     {"id":"sidecar-panel-shift","title":"Sidecar Panel Shift","category":"transitions","brief":"Original reversible draft and reviewed panel transition with a directional sidecar.","status":"used","usedAt":"2026-07-23T06:00:00.000Z"},
     {"id":"waypoint-progress-spine","title":"Waypoint Progress Spine","category":"scroll-effects","brief":"Original embedded reading waypoint control with explicit local progress.","status":"used","usedAt":"2026-07-23T06:00:00.000Z"},
-    {"id":"focus-mode-switch","title":"Focus Mode Switch","category":"misc","brief":"Original accessible workspace preference switch with explicit mode descriptions.","status":"used","usedAt":"2026-07-23T06:00:00.000Z"}
+    {"id":"focus-mode-switch","title":"Focus Mode Switch","category":"misc","brief":"Original accessible workspace preference switch with explicit mode descriptions.","status":"used","usedAt":"2026-07-23T06:00:00.000Z"},
+    {"id":"proof-stamp-button","title":"Proof Stamp Button","category":"buttons","brief":"Original reversible evidence confirmation with a visible proof stamp and text acknowledgement.","status":"used","usedAt":"2026-07-24T06:00:00.000Z"},
+    {"id":"verdict-fold-card","title":"Verdict Fold Card","category":"cards","brief":"Original decision summary card with a concise fold-out rationale.","status":"used","usedAt":"2026-07-24T06:00:00.000Z"},
+    {"id":"signal-threshold-field","title":"Signal Threshold Field","category":"inputs","brief":"Original accessible threshold selector with a readable three-level signal measure.","status":"used","usedAt":"2026-07-24T06:00:00.000Z"},
+    {"id":"section-lane-picker","title":"Section Lane Picker","category":"navigation","brief":"Original keyboard-operable section picker with a moving lane marker and concise panels.","status":"used","usedAt":"2026-07-24T06:00:00.000Z"},
+    {"id":"beat-window-loader","title":"Beat Window Loader","category":"loaders","brief":"Original deterministic export checkpoint loader with explicit stage status.","status":"used","usedAt":"2026-07-24T06:00:00.000Z"},
+    {"id":"weight-shift-phrase","title":"Weight Shift Phrase","category":"text-effects","brief":"Original selectable editorial phrase emphasis with a readable caption.","status":"used","usedAt":"2026-07-24T06:00:00.000Z"},
+    {"id":"axis-ticket-field","title":"Axis Ticket Field","category":"backgrounds","brief":"Original selectable ticket locator over a quiet axis field.","status":"used","usedAt":"2026-07-24T06:00:00.000Z"},
+    {"id":"notebook-edge-swap","title":"Notebook Edge Swap","category":"transitions","brief":"Original reversible note-state transition with a directional notebook edge.","status":"used","usedAt":"2026-07-24T06:00:00.000Z"},
+    {"id":"reading-window-rail","title":"Reading Window Rail","category":"scroll-effects","brief":"Original embedded reading checkpoint rail with explicit local progress.","status":"used","usedAt":"2026-07-24T06:00:00.000Z"},
+    {"id":"session-handoff-badge","title":"Session Handoff Badge","category":"misc","brief":"Original accessible session-sharing badge with explicit reversible state.","status":"used","usedAt":"2026-07-24T06:00:00.000Z"}
   ]
 }
